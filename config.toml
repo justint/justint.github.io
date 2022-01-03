@@ -1,0 +1,89 @@
+# The URL the site will be built for
+base_url = "https://justintennant.me"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "papaya"
+
+title = "Justin Tennant"
+description = "It's me!"
+generate_feed = true
+
+taxonomies = [
+    { name = "categories", feed = true },
+    { name = "tags", feed = true },
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+highlight_theme = "nord"
+
+smart_punctuation = true
+
+[languages]
+
+[languages.en]
+title = "Justin Tennant"
+description = "It's me!"
+generate_feed = true
+feed_filename = "atom.xml"
+
+[languages.en.translations]
+projects = "Projects"
+blog = "Blog"
+about = "About"
+resume = "Resume"
+recent_projects = "Recent Projects"
+more_projects = "More Projects"
+recent_blog_posts = "Recent Blog Posts"
+more_blog_posts = "More blog posts"
+tag = "Tag"
+tags = "Tags"
+to_all_tags = "To all tags"
+category = "Category"
+categories = "Categories"
+to_all_categories = "To all categories"
+view_by = "View by"
+other = "Other"
+minute = "min"
+prev_page = "To newer posts"
+next_page = "To older posts"
+# Customize your post date format. See: https://tera.netlify.app/docs/#date
+date_format = "%B %e, %Y"
+
+[extra]
+# Development environment. Used by the page macros to load remote content only when in "prod" mode
+env = "ZOLA_ENV"
+
+# List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
+menu_items = [
+    { name = "projects", url = "$BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
+    { name = "blog", url = "$BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
+    { name = "resume", url = "$BASE_URL/resume/" },
+    { name = "about", url = "$BASE_URL/about/"}
+]
+
+[extra.images]
+max_width = 2500
+
+[extra.ogp]
+locale = "en_US"
+first_name = "Justin"
+last_name = "Tennant"
+gender = "male"
+username = "justint"
+
+[extra.social]
+email = "me@justintennant.me"
+github = "justint"
+linkedin = "justinmtennant"
+
+# CDN links
+[extra.cdn]
+font_awesome = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"

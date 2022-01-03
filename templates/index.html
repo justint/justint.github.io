@@ -1,0 +1,46 @@
+{% import "macros/page.html" as page_macros %}
+{% extends "base.html" %}
+
+
+{% block content %}
+<main id="main" class="index" tabindex="-1">
+    <section>
+        {% set banner = resize_image(path="/static/index.jpg", width=672, op="fit_width") %}
+        <img src="{{ banner.url }}" class="index-banner" alt="Me in Banff National Park, Canada. Picture credit: David Huang" title="Me in Banff National Park, Canada. Picture credit: David Huang"/>
+        <p>
+            Hello! I'm a Technical Director at <a href="https://disneyanimation.com/">Walt Disney Animation Studios</a> where I develop & support our artist tools and CG animation pipeline.
+        </p>
+        <p>
+            My film credits include <a href="/projects/frozen2"><em>Frozen II</em></a>, <a href="projects/raya"><em>Raya and the Last Dragon</em></a>, and <em>Encanto</em> (coming 2021).
+        </p>
+        <p>
+            I completed my B.S. in Computer Science at <a href="https://www.sjsu.edu/cs/">San José State University</a>, where I developed a <a href="projects/stringless">real-time, markerless, single-camera facial motion capture system ("Stringless")</a> for my graduation thesis.
+        </p>
+        <p>
+            I occasionally <a href="/blog">blog</a> about computer graphics, animation pipelines, and other tech stuff.
+        </p>
+    </section>
+    <section class="index-columns">
+        <section class="index-listing">
+            <h2>
+                Recent projects
+            </h2>
+            {% set section = get_section(path="projects/_index.md") %}
+            {% for page in section.pages | slice(end=2) %}
+            {{ page_macros::project_listing(page=page) }}
+            {% endfor %}
+            <p class="read-more"><a href="/projects/">more projects ≫</a></p>
+        </section>
+        <section class="index-listing">
+            <h2>
+                Recent blog posts
+            </h2>
+            {% set section = get_section(path="blog/_index.md") %}
+            {% for page in section.pages | slice(end=2) %}
+            {{ page_macros::page_listing(page=page) }}
+            {% endfor %}
+            <p class="read-more"><a href="/blog/">more blog posts ≫</a></p>
+        </section>
+    </section>
+</main>
+{% endblock content %}

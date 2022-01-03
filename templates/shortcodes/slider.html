@@ -1,0 +1,91 @@
+{# {{ slider(id="", before_path="", after_path="", extended_width_pct=0.3) }} #}
+
+{# container_width = (pixel size, px) * (.container's max-width) #}
+{% set container_width = 16 * 42 %}
+
+{# figure_width = container_width - (figure margin_blocks) #}
+{% set figure_width = container_width - (40 * 2) %}
+
+{% set image_quality = 90 %}
+{% if quality %}
+    {% set image_quality = quality %}
+{% endif %}
+
+{% if extended_width_pct %}
+    {% if extended_width_pct == -1 %}
+        {# adjust extended width to container width #}
+        {% set extended_width_pct = 0.042 %}
+    {% endif %}
+    {% set _width = config.extra.images.max_width - figure_width %}
+    {% set extended_width = (extended_width_pct * _width + figure_width) | round | int %}
+    {% if extended_width > config.extra.images.max_width %}
+        {% set extended_width = config.extra.images.max_width %}
+    {% endif %}
+    {% set resized_image_before = resize_image(path=before_path, width=extended_width, op="fit_width", quality=image_quality) %}
+    {% set resized_image_after = resize_image(path=after_path, width=extended_width, op="fit_width", quality=image_quality) %}
+{% else %}
+    {% set resized_image_before = resize_image(path=before_path, width=figure_width, op="fit_width", quality=image_quality) %}
+    {% set resized_image_after = resize_image(path=after_path, width=figure_width, op="fit_width", quality=image_quality) %}
+{% endif %}
+
+<script>
+function beforeAfter{{ id }}() {
+    document.getElementById('compare-{{ id }}').style.width = document.getElementById('slider-{{ id }}').value + "%";
+}
+</script>
+
+<style>
+   figure.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       margin: 0;
+       position: relative;
+       width: 100%;
+       display: flex;
+   }
+
+   div.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 50%;
+   }
+
+   input.compare[type="range"] {
+       -webkit-appearance: none;
+       background: transparent;
+       border: none;
+       left: 0;
+       padding: 0;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top: 0;
+   }
+   input.compare[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      height: 100%;
+      margin-top: -2px;
+      width: 5px;
+      background: rgba(255, 255, 255, 0.5);
+      transition: background-color 350ms;
+      cursor: col-resize;
+   }
+   input.compare[type="range"]::-webkit-slider-thumb:hover {
+      background: rgba(255, 255, 255, 0.8);
+      transition: background-color 200ms;
+      cursor: col-resize;
+   }
+   input.compare[type="range"]::-webkit-slider-runnable-track {
+       height: 100%;
+   }
+
+</style>
+
+<div class="extended-figure" style="aspect-ratio: {{ resized_image_before.width }} / {{ resized_image_before.height }};">
+    <figure class="compare" style="background-image: url({{ resized_image_before.url }}); background-size: min({{ resized_image_before.width }}px, 100vw)">
+        <div class="compare" id="compare-{{ id }}" style="background-image: url({{ resized_image_after.url }}); background-size: min({{ resized_image_after.width }}px, 100vw)">
+        </div>
+        <input oninput="beforeAfter{{ id }}()" onchange="beforeAfter()" type="range" min="0" max="100" value="50" step="any" class="compare" id="slider-{{ id }}"/>
+        {% if caption %}<figcaption>{{ caption | safe }}</figcaption>{% endif %}
+    </figure>
+</div>

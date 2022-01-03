@@ -1,0 +1,34 @@
+html {
+    overflow-x: hidden; // cheap hack to prevent horizontal scrollbar from appearing, due to using 100vw for expanded image widths.
+}
+
+/* Index */
+.index-banner {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    object-position: 50% 100%;
+}
+
+/* Embedded social media */
+.twitter-tweet {
+    margin: auto;
+}
+
+/* Media */
+audio {
+    height: 30px;
+    width: 100%;
+}
+
+/* Mobile-only */
+@media screen and (max-width: 600px) {
+    .resume-embed {
+        visibility: hidden;
+        height: 0px;
+    }
+    .me-pic {
+        width: 50%;
+    }
+}
+

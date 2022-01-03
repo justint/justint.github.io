@@ -1,0 +1,12 @@
+{% extends "papaya/templates/base.html" %}
+{% block extra_head %}
+<link rel="stylesheet" href="{{ get_url(path="jt.css", trailing_slash=false) }}">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NRJS35TXYJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NRJS35TXYJ');
+</script>
+{% endblock extra_head %}
