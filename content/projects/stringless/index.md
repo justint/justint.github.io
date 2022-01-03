@@ -21,7 +21,7 @@ By using [dlib](http://dlib.net/) facial landmark detection, Stringless captures
 
 ![Demonstration GIF of Stringless in use](https://github.com/justint/stringless/raw/main/stringless.gif)
 
-<p style="text-align: center; font-weight: bold"><a href="https://github.com/justint/stringless/">View on GitHub</a> ◦ <a href="https://justintennant.me/Stringless_NASA_Presentation.pdf">Presentation</a></p>
+<p style="text-align: center; font-weight: bold"><a href="https://github.com/justint/stringless/">View on GitHub</a> ◦ <a href="Stringless_NASA_Presentation.pdf">Presentation</a></p>
 
 Stringless is a prototype of a motion capture system intended for casual/non-professional animators and visual development ("visdev"). Practically any user with a webcam and a modern computer processor (supporting AVX[^1] or SSE4 instruction sets) can utilize Stringless.
 
