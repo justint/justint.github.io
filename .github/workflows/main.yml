@@ -14,3 +14,4 @@ jobs:
           PAGES_BRANCH: gh-pages
           # Provide personal access token
           TOKEN: ${{ secrets.TOKEN }}
+          ZOLA_ENV: prod
