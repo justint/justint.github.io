@@ -65,7 +65,6 @@ env = "ZOLA_ENV"
 menu_items = [
     { name = "projects", url = "$BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
     { name = "blog", url = "$BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
-    { name = "resume", url = "$BASE_URL/resume/" },
     { name = "about", url = "$BASE_URL/about/"}
 ]
 
