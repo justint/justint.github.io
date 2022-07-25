@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Justin Tennant - game</title>
+	<subtitle>It&#x27;s me!</subtitle>
+	<link href="https://justintennant.me/categories/game/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://justintennant.me"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-10-23T00:00:00+00:00</updated>
+	<id>https://justintennant.me/categories/game/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Pitter-Pat Saves The Museum</title>
+		<published>2020-10-23T00:00:00+00:00</published>
+		<updated>2020-10-23T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/pitter-pat/" type="text/html"/>
+		<id>https://justintennant.me/projects/pitter-pat/</id>
+		<content type="html">&lt;p&gt;A point-and-click adventure horror game made in the style of classic late 90s&#x2F;early-00s edutainment games.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;p style=&quot;text-align: center; font-weight: bold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jaredr122.itch.io&#x2F;pitter-pat-saves-the-museum&quot;&gt;🎮 Play on itch.io&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Pitter-Pat heads to the museum to help find a missing artifact. Something’s not quite right though…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Pitter-Pat Saves The Museum&lt;&#x2F;strong&gt; is a point-and-click adventure game made in the style of classic late 90s&#x2F;early-00s edutainment games! Featuring:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;7+ museum rooms to discover and explore&lt;&#x2F;li&gt;
+&lt;li&gt;1 BIG museum mystery!&lt;&#x2F;li&gt;
+&lt;li&gt;Spooky sights and sounds&lt;&#x2F;li&gt;
+&lt;li&gt;An original soundtrack&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Created by two professional “animators”, this “masterwork” of interactive entertainment will leave you “frightened” to the core.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h1 id=&quot;reviews&quot;&gt;Reviews&lt;a class=&quot;zola-anchor&quot; href=&quot;#reviews&quot; aria-label=&quot;Anchor link for: reviews&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Awarded “&lt;strong&gt;Host’s Choice&lt;&#x2F;strong&gt;” for the &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;scream-jam-2020&quot;&gt;💀 SCREAM JAM 2020 💀&lt;&#x2F;a&gt;! &lt;&#x2F;p&gt;
+&lt;p&gt;Rave reviews by other jam developers:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Very interesting and very unsettling game. I came in with few questions and I came out with more. I need more. 5&#x2F;5  – srg&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This game is perfect. Honestly there’s not a single thing to dock points for. The art is absolutely on point. – makegamergirls&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is extremely good considering the time you had to make it in, and one thing I certainly wasn’t expecting to find was a horror parody of one of my favorite [Humongous Games] series. – Attica Kish&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;scream-jam-2020&#x2F;rate&#x2F;797256&quot;&gt;More reviews on itch.io&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;a class=&quot;zola-anchor&quot; href=&quot;#development&quot; aria-label=&quot;Anchor link for: development&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Developed specifically for the &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;scream-jam-2020&quot;&gt;💀 SCREAM JAM 2020 💀&lt;&#x2F;a&gt; game jam on itch.io. Co-developed with the same friend who I also worked on &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;horai&#x2F;&quot;&gt;Horai&lt;&#x2F;a&gt; with together!&lt;&#x2F;p&gt;
+&lt;p&gt;Built with &lt;a href=&quot;https:&#x2F;&#x2F;godotengine.org&#x2F;&quot;&gt;Godot&lt;&#x2F;a&gt;, using the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;godot-escoria&#x2F;escoria-demo-game&#x2F;tree&#x2F;esc2-godot3.2&quot;&gt;Escoria 2.0 point-and-click adventure game framework&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;music&quot;&gt;Music&lt;a class=&quot;zola-anchor&quot; href=&quot;#music&quot; aria-label=&quot;Anchor link for: music&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;I also wrote the soundtrack!&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 70%; margin: auto; padding: 10px 0&quot;&gt;
+Museum: &lt;audio src=&quot;museum_theme.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;
+&lt;p&gt;End: &lt;audio src=&quot;end_theme.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;To get those classic mid-90’s synthesized instrument sounds, I emulated the Yamaha YMF262 chip (&lt;a href=&quot;http:&#x2F;&#x2F;www.vgmpf.com&#x2F;Wiki&#x2F;index.php?title=YMF262&quot;&gt;utilized in multiple sound cards in the day&lt;&#x2F;a&gt;) using the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jpcima&#x2F;ADLplug&quot;&gt;ADLplug chip synthesizer&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;While I was playing around with that synthesizer, I discovered quite a few instruments I recognized from some early Humongous Entertainment games (Putt-Putt, Fatty Bear’s Birthday Surprise), especially the soundtracks produced by &lt;a href=&quot;http:&#x2F;&#x2F;www.vgmpf.com&#x2F;Wiki&#x2F;index.php&#x2F;Tom_McMail&quot;&gt;Tom McMail&lt;&#x2F;a&gt;. I might later write a blog post dissecting each game’s music and what synth instruments were used, a-la &lt;a href=&quot;https:&#x2F;&#x2F;reverbmachine.com&#x2F;&quot;&gt;Reverb Machine&lt;&#x2F;a&gt;! &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Horai</title>
+		<published>2020-07-26T00:00:00+00:00</published>
+		<updated>2020-07-26T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/horai/" type="text/html"/>
+		<id>https://justintennant.me/projects/horai/</id>
+		<content type="html">&lt;p&gt;A survival game to keep a flower alive by changing the seasons.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;p style=&quot;text-align: center; font-weight: bold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jaredr122.itch.io&#x2F;horai&quot;&gt;🎮 Play on itch.io&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Change the season with SPACEBAR. Keep the flower alive. Too hot or too cold, the flower will die. The animals prefer certain conditions, but you’ll have to figure those out as you play!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;My first ever game completed in a game jam, built with &lt;a href=&quot;https:&#x2F;&#x2F;godotengine.org&#x2F;&quot;&gt;Godot&lt;&#x2F;a&gt;! I developed this with a friend for the &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;my-first-game-jam-summer-2020&#x2F;rate&#x2F;711724&quot;&gt;My First Game Jam: Summer 2020&lt;&#x2F;a&gt;. I was responsible for the particle systems (rain, leaves, snow), health &amp;amp; temperature system, and music. &lt;&#x2F;p&gt;
+&lt;p&gt;At the time we developed Horai, the world was deep into the COVID-19 Fun Times™, and we had a formidable need to unleash some creative energy. We tossed a few game engine ideas on the wall, but settled with using Godot for its shallow learning curve, easy file management, and strong community support. It was a great learning experience, and we were satisfied enough with Godot to make &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;pitter-pat&#x2F;&quot;&gt;another game with it later that year&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;Here’s some in-depth juiciness of what I worked on:&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;graphics&quot;&gt;Graphics&lt;a class=&quot;zola-anchor&quot; href=&quot;#graphics&quot; aria-label=&quot;Anchor link for: graphics&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Besides the &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;horai&#x2F;#particle-system&quot;&gt;particle system&lt;&#x2F;a&gt; mentioned below, I also added the season transition effect:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;seasonchange.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This was a direct implementation of DDRKirby’s wicked cool shader-based transitions&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;. All the rest of the game’s beautiful pixel art was done by my super talented teammate!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;particle-system&quot;&gt;Particle System&lt;a class=&quot;zola-anchor&quot; href=&quot;#particle-system&quot; aria-label=&quot;Anchor link for: particle-system&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Just after we first added our flower sprite into our forest, we realized that the environment felt dead, too static. I tinkered around with Godot’s &lt;a href=&quot;https:&#x2F;&#x2F;docs.godotengine.org&#x2F;en&#x2F;stable&#x2F;tutorials&#x2F;2d&#x2F;particle_systems_2d.html&quot;&gt;Particle System&lt;&#x2F;a&gt; and managed to get some nice seasonal weather added:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;rain.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;leaves.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;snow.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mechanics&quot;&gt;Mechanics&lt;a class=&quot;zola-anchor&quot; href=&quot;#mechanics&quot; aria-label=&quot;Anchor link for: mechanics&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;health-temperature-system&quot;&gt;Health &amp;amp; Temperature System&lt;a class=&quot;zola-anchor&quot; href=&quot;#health-temperature-system&quot; aria-label=&quot;Anchor link for: health-temperature-system&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;In Horai, the goal is to keep the flower alive as long as possible. I implemented a simple numerical health system (&lt;code&gt;9 = &lt;&#x2F;code&gt;full health, &lt;code&gt;0 = &lt;&#x2F;code&gt; dead) on the flower, and a global temperature variable in the game (&lt;code&gt;var temperature = 60&lt;&#x2F;code&gt;). I also defined a “Goldilocks range”, where if the temperature ever dipped below or above the range, there’d be a certain (small) chance that the flower would take damage.&lt;&#x2F;p&gt;
+&lt;p&gt;Each season (&lt;code&gt;enum SEASONS {SPRING, SUMMER, FALL, WINTER}&lt;&#x2F;code&gt;) had a defined influencing behavior on the temperature of either increasing to a maximum, decreasing to a minimum, or adjusting to a median temperature. &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;music&quot;&gt;Music&lt;a class=&quot;zola-anchor&quot; href=&quot;#music&quot; aria-label=&quot;Anchor link for: music&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;During development, we curated a playlist to help set the tone and mood of our game:&lt;&#x2F;p&gt;
+&lt;iframe src=&quot;https:&#x2F;&#x2F;open.spotify.com&#x2F;embed&#x2F;playlist&#x2F;03FQSmm6pXmMz6PqTo5jOE?theme=0&quot; width=&quot;75%&quot; height=&quot;300&quot; style=&quot;display: block; margin: auto&quot; frameBorder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;h2 id=&quot;soundtrack&quot;&gt;Soundtrack&lt;a class=&quot;zola-anchor&quot; href=&quot;#soundtrack&quot; aria-label=&quot;Anchor link for: soundtrack&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Feeling inspired by our playlist, I developed a soundtrack for the game!&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 70%; margin: auto; padding: 10px 0&quot;&gt;
+Spring: &lt;audio src=&quot;spring.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;
+&lt;p&gt;Summer: &lt;audio src=&quot;summer.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Fall: &lt;audio src=&quot;fall.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Winter: &lt;audio src=&quot;winter.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;The season’s themes were produced in Ableton with Serum, and written with intentionally similar themes to bring a sense of cohesion across the seasons.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;closing-thoughts&quot;&gt;Closing Thoughts&lt;a class=&quot;zola-anchor&quot; href=&quot;#closing-thoughts&quot; aria-label=&quot;Anchor link for: closing-thoughts&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;I’m very proud of what we accomplished in the week of development, in the limited hours outside our regular jobs! Most of our time consisted of poring over Godot’s documentation and learning rapidly while tinkering – by the end we were excited to have &lt;em&gt;something&lt;&#x2F;em&gt; playable, but even more excited to begin building bigger and better things with the engine.&lt;&#x2F;p&gt;
+&lt;p&gt;Here are some of my learned lessons: &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Lock down your idea early, and leave time for playtesting.&lt;&#x2F;em&gt; Avoid what we did of spending the first half of our game jam coming to a decision (oops… lol)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Identify your priorities and keep your focus.&lt;&#x2F;em&gt; I found myself getting distracted by all the nifty features within Godot, especially those relating to graphics. I also probably spent more time trying to deliver the aesthetics for the game than the gameplay itself. &lt;&#x2F;p&gt;
+&lt;p&gt;For future game jams, I’ve learned I should prototype and iterate more swiftly, and try not to get too caught up in QC’ing&#x2F;bug-fixing while developing. Your time in a game jam is precious!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Seriously, leave time for playtesting!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ddrkirby.com&#x2F;articles&#x2F;shader-based-transitions&#x2F;shader-based-transitions.html&quot;&gt;https:&#x2F;&#x2F;ddrkirby.com&#x2F;articles&#x2F;shader-based-transitions&#x2F;shader-based-transitions.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+</feed>

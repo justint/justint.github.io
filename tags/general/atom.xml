@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Justin Tennant - general</title>
+	<subtitle>It&#x27;s me!</subtitle>
+	<link href="https://justintennant.me/tags/general/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://justintennant.me"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-01-03T00:00:00+00:00</updated>
+	<id>https://justintennant.me/tags/general/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Hello World!</title>
+		<published>2022-01-03T00:00:00+00:00</published>
+		<updated>2022-01-03T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/blog/hello-world/" type="text/html"/>
+		<id>https://justintennant.me/blog/hello-world/</id>
+		<content type="html">&lt;p&gt;A brand new website is born! &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;The year is now 2022, and I’ve finally redone my website! &lt;&#x2F;p&gt;
+&lt;p&gt;Please browse around and check out all the projects. I’m particularly proud of these few:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;raya&#x2F;&quot;&gt;&lt;em&gt;Raya and the Last Dragon&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;, for the interactive before&#x2F;after sliders&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;papaya&#x2F;&quot;&gt;papaya&lt;&#x2F;a&gt;, the theme I developed for this site &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;about&#x2F;&quot;&gt;My About page&lt;&#x2F;a&gt;, which includes fun facts about me!!!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;It has been a long and arduous journey to get to where it is now. In the coming days I’ll put up a new post detailing my reasonings for using &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; as the site’s static generation system.&lt;&#x2F;p&gt;
+&lt;p&gt;If ya like what ya see, &lt;a href=&quot;mailto:me@justintennant.me?subject=Your website is cool&quot;&gt;drop me a message&lt;&#x2F;a&gt;! &lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

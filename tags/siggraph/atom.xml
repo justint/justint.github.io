@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Justin Tennant - siggraph</title>
+	<subtitle>It&#x27;s me!</subtitle>
+	<link href="https://justintennant.me/tags/siggraph/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://justintennant.me"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-07-24T00:00:00+00:00</updated>
+	<id>https://justintennant.me/tags/siggraph/atom.xml</id>
+	<entry xml:lang="en">
+		<title>SIGGRAPH 2022</title>
+		<published>2022-07-24T00:00:00+00:00</published>
+		<updated>2022-07-24T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/blog/siggraph-2022/" type="text/html"/>
+		<id>https://justintennant.me/blog/siggraph-2022/</id>
+		<content type="html">&lt;p&gt;Presenting my team’s Tactics work on &lt;em&gt;Encanto&lt;&#x2F;em&gt; and excellent poutine are on the horizon.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;It’s &lt;a href=&quot;https:&#x2F;&#x2F;s2022.siggraph.org&#x2F;&quot;&gt;SIGGRAPH&lt;&#x2F;a&gt; time! 🎉&lt;&#x2F;p&gt;
+&lt;p&gt;I’ll be attending the conference in person for the week. It’s the first time the conference has been hosted in person since 2019, and I’m especially excited to be returning to the beautiful Vancouver city.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m also thrilled to be presenting our metrics visualization work we did on &lt;em&gt;Encanto&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;s2022.siggraph.org&#x2F;presentation&#x2F;?id=gensub_205&amp;amp;sess=sess138&quot;&gt;&lt;strong&gt;Visualizing the Production Process of &lt;em&gt;Encanto&lt;&#x2F;em&gt; With the Command Center&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;TUE, AUG 9&lt;&#x2F;p&gt;
+&lt;p&gt;10:45 AM – 11:05 AM PT&lt;&#x2F;p&gt;
+&lt;p&gt;WEST BUILDING, ROOM 211-214&lt;&#x2F;p&gt;
+&lt;p&gt;Walt Disney Animation Studios presents the Command Center, a web application for communicating and monitoring high-dimensional production metrics at the studio. Developed during the production of &lt;em&gt;Encanto&lt;&#x2F;em&gt;, the Command Center provides near-real-time insights into key film production metrics, all integrated into a singular novel film interface.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Our studio has a bunch of presentations this year at SIGGRAPH (can’t get enough &lt;em&gt;Encanto&lt;&#x2F;em&gt;!):&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;disneyanimation.com&#x2F;events&#x2F;siggraph-2022&#x2F;&quot;&gt;https:&#x2F;&#x2F;disneyanimation.com&#x2F;events&#x2F;siggraph-2022&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If you’re attending, come stop by and check out the cool work we did! And shoot me a message too, would love to say hi to old and new friends :) &lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

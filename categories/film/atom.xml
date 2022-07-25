@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Justin Tennant - film</title>
+	<subtitle>It&#x27;s me!</subtitle>
+	<link href="https://justintennant.me/categories/film/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://justintennant.me"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-11-24T00:00:00+00:00</updated>
+	<id>https://justintennant.me/categories/film/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Encanto</title>
+		<published>2021-11-24T00:00:00+00:00</published>
+		<updated>2021-11-24T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/encanto/" type="text/html"/>
+		<id>https://justintennant.me/projects/encanto/</id>
+		<content type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on optimization and metrics visualization as a Technical Director on the Tactics Team.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;More to come here soon, stay tuned.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ll be at SIGGRAPH 2022 presenting the work I and my team did for &lt;em&gt;Encanto&lt;&#x2F;em&gt;, come check it out!&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;s2022.siggraph.org&#x2F;presentation&#x2F;?id=gensub_205&amp;amp;sess=sess138&quot;&gt;&lt;strong&gt;Visualizing the Production Process of &lt;em&gt;Encanto&lt;&#x2F;em&gt; With the Command Center&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Walt Disney Animation Studios presents the Command Center, a web application for communicating and monitoring high-dimensional production metrics at the studio. Developed during the production of &lt;em&gt;Encanto&lt;&#x2F;em&gt;, the Command Center provides near-real-time insights into key film production metrics, all integrated into a singular novel film interface.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Raya and the Last Dragon</title>
+		<published>2021-03-05T00:00:00+00:00</published>
+		<updated>2021-03-05T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/raya/" type="text/html"/>
+		<id>https://justintennant.me/projects/raya/</id>
+		<content type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on lighting &amp;amp; volume pipelines as a Technical Director.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;em&gt;Raya and the Last Dragon&lt;&#x2F;em&gt; is the second film at Walt Disney Animation Studios I’ve had the privilege of working on (and one of my favorites stylistically!). &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;my-contributions-to-the-film&quot;&gt;My Contributions to the Film&lt;a class=&quot;zola-anchor&quot; href=&quot;#my-contributions-to-the-film&quot; aria-label=&quot;Anchor link for: my-contributions-to-the-film&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;On &lt;em&gt;Raya&lt;&#x2F;em&gt; I worked as a Technical Director, performing a mixture of &lt;strong&gt;scripting, tools development, and problem solving for our artists &amp;amp; their workflows&lt;&#x2F;strong&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;For this show specifically, my focus was in developing &amp;amp; supporting the Lighting department. One of my most significant contributions to the production was the development of our volumetrics pipeline, which allowed our lighting artists to place clouds, fog, mist, and other volumetric assets directly into their shots. This significantly lowered the need for expensive, per-shot Effects-produced volumetrics. The pipeline also supported a multi-shot workflow, allowing our lighting supervisors to insert multiple volumes across a range of shots in any one sequence.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;Below are a few examples of how the volumetrics affected the look of the film.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Use the slider to preview the before and after of adding volumetrics into these shots:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;script&gt;
+function beforeAfter1() {
+    document.getElementById(&#x27;compare-1&#x27;).style.width = document.getElementById(&#x27;slider-1&#x27;).value + &quot;%&quot;;
+}
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+   figure.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       margin: 0;
+       position: relative;
+       width: 100%;
+       display: flex;
+   }
+
+   div.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 50%;
+   }
+
+   input.compare[type=&quot;range&quot;] {
+       -webkit-appearance: none;
+       background: transparent;
+       border: none;
+       left: 0;
+       padding: 0;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top: 0;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      height: 100%;
+      margin-top: -2px;
+      width: 5px;
+      background: rgba(255, 255, 255, 0.5);
+      transition: background-color 350ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb:hover {
+      background: rgba(255, 255, 255, 0.8);
+      transition: background-color 200ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-runnable-track {
+       height: 100%;
+   }
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;extended-figure&quot; style=&quot;aspect-ratio: 1546 &#x2F; 646;&quot;&gt;
+    &lt;figure class=&quot;compare&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;5d014f0a816f617b00.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;div class=&quot;compare&quot; id=&quot;compare-1&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;13d781805af0f5f300.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;&#x2F;div&gt;
+        &lt;input oninput=&quot;beforeAfter1()&quot; onchange=&quot;beforeAfter()&quot; type=&quot;range&quot; min=&quot;0&quot; max=&quot;100&quot; value=&quot;50&quot; step=&quot;any&quot; class=&quot;compare&quot; id=&quot;slider-1&quot;&#x2F;&gt;
+        
+    &lt;&#x2F;figure&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt; &lt;&#x2F;p&gt;
+&lt;script&gt;
+function beforeAfter2() {
+    document.getElementById(&#x27;compare-2&#x27;).style.width = document.getElementById(&#x27;slider-2&#x27;).value + &quot;%&quot;;
+}
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+   figure.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       margin: 0;
+       position: relative;
+       width: 100%;
+       display: flex;
+   }
+
+   div.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 50%;
+   }
+
+   input.compare[type=&quot;range&quot;] {
+       -webkit-appearance: none;
+       background: transparent;
+       border: none;
+       left: 0;
+       padding: 0;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top: 0;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      height: 100%;
+      margin-top: -2px;
+      width: 5px;
+      background: rgba(255, 255, 255, 0.5);
+      transition: background-color 350ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb:hover {
+      background: rgba(255, 255, 255, 0.8);
+      transition: background-color 200ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-runnable-track {
+       height: 100%;
+   }
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;extended-figure&quot; style=&quot;aspect-ratio: 1546 &#x2F; 647;&quot;&gt;
+    &lt;figure class=&quot;compare&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;956b5d0e6f49815900.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;div class=&quot;compare&quot; id=&quot;compare-2&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;74efc6c64b70ede900.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;&#x2F;div&gt;
+        &lt;input oninput=&quot;beforeAfter2()&quot; onchange=&quot;beforeAfter()&quot; type=&quot;range&quot; min=&quot;0&quot; max=&quot;100&quot; value=&quot;50&quot; step=&quot;any&quot; class=&quot;compare&quot; id=&quot;slider-2&quot;&#x2F;&gt;
+        
+    &lt;&#x2F;figure&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt; &lt;&#x2F;p&gt;
+&lt;script&gt;
+function beforeAfter3() {
+    document.getElementById(&#x27;compare-3&#x27;).style.width = document.getElementById(&#x27;slider-3&#x27;).value + &quot;%&quot;;
+}
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+   figure.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       margin: 0;
+       position: relative;
+       width: 100%;
+       display: flex;
+   }
+
+   div.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 50%;
+   }
+
+   input.compare[type=&quot;range&quot;] {
+       -webkit-appearance: none;
+       background: transparent;
+       border: none;
+       left: 0;
+       padding: 0;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top: 0;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      height: 100%;
+      margin-top: -2px;
+      width: 5px;
+      background: rgba(255, 255, 255, 0.5);
+      transition: background-color 350ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb:hover {
+      background: rgba(255, 255, 255, 0.8);
+      transition: background-color 200ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-runnable-track {
+       height: 100%;
+   }
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;extended-figure&quot; style=&quot;aspect-ratio: 1546 &#x2F; 647;&quot;&gt;
+    &lt;figure class=&quot;compare&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;901619ea862f540b00.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;div class=&quot;compare&quot; id=&quot;compare-3&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;bfc6a08b31367e0b00.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;&#x2F;div&gt;
+        &lt;input oninput=&quot;beforeAfter3()&quot; onchange=&quot;beforeAfter()&quot; type=&quot;range&quot; min=&quot;0&quot; max=&quot;100&quot; value=&quot;50&quot; step=&quot;any&quot; class=&quot;compare&quot; id=&quot;slider-3&quot;&#x2F;&gt;
+        
+    &lt;&#x2F;figure&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;&lt;em&gt;Images courtesy of and the property of Walt Disney Animation Studios.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The volumetrics pipeline was a collaborative effort between multiple departments: the &lt;em&gt;effects team&lt;&#x2F;em&gt; procured the volumes to be placed into our stockroom, the &lt;em&gt;Hyperion rendering team&lt;&#x2F;em&gt; implemented new technology to render the complex heterogenerous volumes (more details in Karl Li’s &lt;a href=&quot;https:&#x2F;&#x2F;blog.yiningkarlli.com&#x2F;2021&#x2F;03&#x2F;raya-and-the-last-dragon.html&quot;&gt;excellent blog post&lt;&#x2F;a&gt;), the &lt;em&gt;preview rendering team&lt;&#x2F;em&gt; to ensure the volumes displayed beautifully in our artists’ tools, and the &lt;em&gt;technical director team&lt;&#x2F;em&gt; (that’s me!) developed the neccessary additions to our production pipeline to support our lighting artists adding the volumes into the shots.&lt;&#x2F;p&gt;
+&lt;p&gt;My contributions focused on those additions to our existing production pipeline - I lead the development of a &lt;strong&gt;new data extraction &amp;amp; organization methodology&lt;&#x2F;strong&gt; and &lt;strong&gt;authoring GUI tool&lt;&#x2F;strong&gt; for these volumetrics. &lt;&#x2F;p&gt;
+&lt;p&gt;This new methodology defined how the local lighting artists’ volumetric data should be extracted from their scenes and made available in the target destination shots. It also provided the ability for our lighting supervisors to bring in volumes and work in a multi-shot context within one DCC editing instance, and publish out those volumes across multiple shots with one action. All of this functionality was made available through a new user interface accessible to our artists directly.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;documenting-our-filmmaking-process&quot;&gt;Documenting our Filmmaking Process&lt;a class=&quot;zola-anchor&quot; href=&quot;#documenting-our-filmmaking-process&quot; aria-label=&quot;Anchor link for: documenting-our-filmmaking-process&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Our studio has curated a website to illustrate how our films are made. It’s very pretty and fun to explore - &lt;a href=&quot;https:&#x2F;&#x2F;disneyanimation.com&#x2F;process&#x2F;&quot;&gt;go check it out&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;68fbfc455ea0c82100.png&quot; class=&quot;&quot; alt=&quot;What We Do: Filmmaking Process - Walt Disney Animation Studios&quot;&#x2F;&gt;
+    &lt;figcaption&gt;What We Do: the Filmmaking Process from the &lt;a href=&#x27;https:&#x2F;&#x2F;disneyanimation.com&#x2F;process&#x2F;&#x27;&gt;Walt Disney Animation Studios website&lt;&#x2F;a&gt;.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;Marc Bryant, Ryan DeYoung, Wei-Feng Wayne Huang, Joe Longson, and Noel Villegas. 2021. &lt;em&gt;The Atmosphere of Raya and the Last Dragon&lt;&#x2F;em&gt;. In ACM SIGGRAPH 2021 Talks (&lt;em&gt;SIGGRAPH ’21&lt;&#x2F;em&gt;). Association for Computing Machinery, New York, NY, USA, Article 51, 1–2. DOI: 
+&lt;a href=&quot;https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;abs&#x2F;10.1145&#x2F;3450623.3464676&quot;&gt;https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;abs&#x2F;10.1145&#x2F;3450623.3464676&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Frozen 2</title>
+		<published>2019-11-07T00:00:00+00:00</published>
+		<updated>2019-11-07T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/frozen2/" type="text/html"/>
+		<id>https://justintennant.me/projects/frozen2/</id>
+		<content type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on crowds pipeline, support &amp;amp; bug fixing, and more as an Assistant Technical Director.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;em&gt;Frozen 2&lt;&#x2F;em&gt; is the first feature film I’ve had the privilege to work on, and I am immensely proud of what our crew accomplished to produce this stunning visual magic.&lt;&#x2F;p&gt;
+&lt;p&gt;On &lt;em&gt;Frozen 2&lt;&#x2F;em&gt; I worked as an Assistant Technical Director, performing a mixture of scripting, tools development, and problem solving for our artists &amp;amp; their workflows. As a member of the Technical Director department, I represented  the intermediate between our artists and software engineers, working as a “steward of the pipeline” to ensure our artists could accomplish their artistic visions with the technology we craft them.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;a class=&quot;zola-anchor&quot; href=&quot;#background&quot; aria-label=&quot;Anchor link for: background&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;A little context about how I got to work on &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;I joined Walt Disney Animation Studios through their Talent Development Program as a Technical Director Trainee in 2018&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;. After 3 months as a trainee, I was cast to Frozen 2 as an Assistant Technical Director and assisted nearly all the production departments on producing and rendering this film. &lt;&#x2F;p&gt;
+&lt;p&gt;Besides it being my first film to work on at Walt Disney Animation Studios and my first credit, &lt;em&gt;Frozen 2&lt;&#x2F;em&gt; holds a particularly special place in my heart for another reason: the first &lt;em&gt;Frozen&lt;&#x2F;em&gt; movie motivated me to enter the computer graphics industry. Specifically, the &lt;em&gt;A Material Point Method for Snow Simulation&lt;&#x2F;em&gt;&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; publication from the film’s technical development was a defining point of inspiration during my years as a college student. To have worked on its direct sequel, at the studio that produced it, is a true honor and a highlight of my career.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;0767c5451991eefd00.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 - Teaser shot&quot;&#x2F;&gt;
+    &lt;figcaption&gt;The gang overlook the enchanted forest. From the &lt;a href=&#x27;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=eSLe4HuKuK0&#x27;&gt;&lt;i&gt;Frozen 2&lt;&#x2F;i&gt; Official Teaser Trailer&lt;&#x2F;a&gt;.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;But enough gushing! Here’s a glance at some of the stuff I worked on for this production:&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowds-and-their-luscious-locks&quot;&gt;Crowds (and their luscious locks)&lt;a class=&quot;zola-anchor&quot; href=&quot;#crowds-and-their-luscious-locks&quot; aria-label=&quot;Anchor link for: crowds-and-their-luscious-locks&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;Frozen 2&lt;&#x2F;em&gt; had a lot of crowd characters, and all of them needed to appear presentable – groomed hair, fitted clothes, the works! Ensuring the best tailored look across all the crowd body types and head shapes was a necessity.&lt;&#x2F;p&gt;
+&lt;p&gt;To accomplish this, we used a refitting process that propagated data along our crowd asset hierarchies (described in Luceno Ros et al. 2021, p. 2&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#3&quot;&gt;3&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;). I worked on the part of that process that refit the crowd characters’ hair grooms to different head shapes.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;10a333fff63171bf00.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 - Crowds&quot;&#x2F;&gt;
+    
+&lt;&#x2F;figure&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;7f87919bc843883700.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 - Crowds&quot;&#x2F;&gt;
+    &lt;figcaption&gt;Some examples of the crowds pipeline in action. Look at that beautifully groomed crowd hair! From a &lt;a href=&#x27;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=JntesK7rdTA&#x27;&gt;&lt;i&gt;Frozen 2&lt;&#x2F;i&gt; trailer&lt;&#x2F;a&gt;.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;bug-fixing-production-support&quot;&gt;Bug fixing &amp;amp; production support&lt;a class=&quot;zola-anchor&quot; href=&quot;#bug-fixing-production-support&quot; aria-label=&quot;Anchor link for: bug-fixing-production-support&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;No film ever completes production without some occurrence of technical challenges. &lt;&#x2F;p&gt;
+&lt;p&gt;Part of my responsibility on the show was triaging the many issues that arose from artists: Elsa’s hair blowing up, disappearing props and sets, crazy render times, you name it! As an Assistant Technical Director (ATD), the expectation was for me to pick up any issue from any production department and do my best to solve it. &lt;&#x2F;p&gt;
+&lt;p&gt;I also had a hand in touching a number of software products and artist tools for bugfixes that came up during production.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;optimizations&quot;&gt;Optimizations&lt;a class=&quot;zola-anchor&quot; href=&quot;#optimizations&quot; aria-label=&quot;Anchor link for: optimizations&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The Technical Director teams also share a responsibility of optimizing our shots when needed to get them through the pipeline. Below are a few behind-the-scenes highlights of shots I had a hand in optimizing:&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;To create the mist at the entrance to the Enchanted Forest, the Effects team first draped a cloth simulation across the scene. The team populated the cloth simulation with thousands of smaller fluid simulations to build movement. &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hashtag&#x2F;TechTuesday?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#TechTuesday&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hashtag&#x2F;Frozen2?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Frozen2&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.co&#x2F;EwSiB45Cr7&quot;&gt;pic.twitter.com&#x2F;EwSiB45Cr7&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&amp;mdash; Disney Animation (@DisneyAnimation) &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;DisneyAnimation&#x2F;status&#x2F;1219771926228303872?ref_src=twsrc%5Etfw&quot;&gt;January 22, 2020&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt; &lt;script async src=&quot;https:&#x2F;&#x2F;platform.twitter.com&#x2F;widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Watch how the Lighting and Look Development artists transformed Ahtohallan with their work in &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hashtag&#x2F;Frozen2?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Frozen2&lt;&#x2F;a&gt;. &lt;a href=&quot;https:&#x2F;&#x2F;t.co&#x2F;rWJG8K9jHM&quot;&gt;pic.twitter.com&#x2F;rWJG8K9jHM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&amp;mdash; Disney Animation (@DisneyAnimation) &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;DisneyAnimation&#x2F;status&#x2F;1283151786283601920?ref_src=twsrc%5Etfw&quot;&gt;July 14, 2020&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt; &lt;script async src=&quot;https:&#x2F;&#x2F;platform.twitter.com&#x2F;widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+&lt;h1 id=&quot;related-publications&quot;&gt;Related publications&lt;a class=&quot;zola-anchor&quot; href=&quot;#related-publications&quot; aria-label=&quot;Anchor link for: related-publications&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Along with the beautiful artistry crafted for this film, our technical teams went all out to refine our tools and workflows. Here are some publications released by our studio that illustrate the awesome partnerships of art and science on &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;disneyanimation.com&#x2F;publications&#x2F;frozen-2-effects-vegetation-pipeline&#x2F;&quot;&gt;&lt;em&gt;Frozen 2&lt;&#x2F;em&gt;: Effects Vegetation Pipeline&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Norman Moses Joseph, Vijoy Gaddipati, Benjamin Fiske, Marie Tollec, and Tad Miller. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3409320&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 7, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;creating-the-wind-spirit&#x2F;&quot;&gt;Frozen 2: Creating the Wind Spirit&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Cameron Black, Ben Fiske, and Trent Correy. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407346&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 22, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;making-beautiful-embroidery-for-frozen-2&#x2F;&quot;&gt;Making Beautiful Embroidery for &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Ying Liu, Jared Wright, and Alexander Alvarado. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407360&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 73, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;deconstructing-destruction-making--breaking-frozen-2s-dam&#x2F;&quot;&gt;Deconstructing Destruction: Making &amp;amp; Breaking &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;’s Dam&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Marie Tollec, Sean Jenkins, Lance Summers, and Charles Cunningham-Scott. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407333&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 24, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;the-look-and-lighting-of-show-yourself-from-frozen-2&#x2F;&quot;&gt;The Look and Lighting of “Show Yourself” from &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Amol Sathe, Lance Summers, Matt Jen-Yuan Chiang, and James Newland. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407388&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 71, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;f4d76ce0db0919c900.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 credits&quot;&#x2F;&gt;
+    &lt;figcaption&gt;Hey, it&#x27;s me! This is my first film credit.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;All images in this post are courtesy of and the property of Walt Disney Animation Studios.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;references&quot;&gt;References&lt;a class=&quot;zola-anchor&quot; href=&quot;#references&quot; aria-label=&quot;Anchor link for: references&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;talent-development&#x2F;apprenticeships&#x2F;&quot;&gt;Trainee &amp;amp; Apprentice Program&lt;&#x2F;a&gt; at Walt Disney Animation Studios is a 9-to-18 month mentored training program for recently graduated&#x2F;early career artists and technologists. If you’re interested in this opportunity, I recommend checking out “Open Positions” on &lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;careers&#x2F;&quot;&gt;Disney Animation Careers&lt;&#x2F;a&gt; and look for “Talent Development” roles for your focus of interest.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;Alexey Stomakhin, Craig Schroeder, Lawrence Chai, Joseph Teran, and Andrew Selle. 2013. &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2461912.2461948&quot;&gt;A material point method for snow simulation&lt;&#x2F;a&gt;. &lt;i&gt;ACM Trans. Graph.&lt;&#x2F;i&gt; 32, 4, Article 102 (July 2013), 10 pages. &lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;a-material-point-method-for-snow-simulation&#x2F;&quot;&gt;disneyanimation.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;3&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;3&lt;&#x2F;sup&gt;
+&lt;p&gt;Alberto Luceno Ros, Kristin Chow, Jack Geckler, Norman Moses Joseph, and Nicolas Nghiem. 2021. &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3450623.3464648&quot;&gt;Populating the World of Kumandra: Animation at Scale for Disney’s “Raya and the Last Dragon”&lt;&#x2F;a&gt;. In &lt;em&gt;ACM SIGGRAPH 2021 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’21&lt;&#x2F;em&gt;).  Article 39, 1–2.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+</feed>

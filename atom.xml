@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Justin Tennant</title>
+	<subtitle>It&#x27;s me!</subtitle>
+	<link href="https://justintennant.me/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://justintennant.me"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-07-24T00:00:00+00:00</updated>
+	<id>https://justintennant.me/atom.xml</id>
+	<entry xml:lang="en">
+		<title>SIGGRAPH 2022</title>
+		<published>2022-07-24T00:00:00+00:00</published>
+		<updated>2022-07-24T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/blog/siggraph-2022/" type="text/html"/>
+		<id>https://justintennant.me/blog/siggraph-2022/</id>
+		<content type="html">&lt;p&gt;Presenting my team’s Tactics work on &lt;em&gt;Encanto&lt;&#x2F;em&gt; and excellent poutine are on the horizon.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;It’s &lt;a href=&quot;https:&#x2F;&#x2F;s2022.siggraph.org&#x2F;&quot;&gt;SIGGRAPH&lt;&#x2F;a&gt; time! 🎉&lt;&#x2F;p&gt;
+&lt;p&gt;I’ll be attending the conference in person for the week. It’s the first time the conference has been hosted in person since 2019, and I’m especially excited to be returning to the beautiful Vancouver city.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m also thrilled to be presenting our metrics visualization work we did on &lt;em&gt;Encanto&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;s2022.siggraph.org&#x2F;presentation&#x2F;?id=gensub_205&amp;amp;sess=sess138&quot;&gt;&lt;strong&gt;Visualizing the Production Process of &lt;em&gt;Encanto&lt;&#x2F;em&gt; With the Command Center&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;TUE, AUG 9&lt;&#x2F;p&gt;
+&lt;p&gt;10:45 AM – 11:05 AM PT&lt;&#x2F;p&gt;
+&lt;p&gt;WEST BUILDING, ROOM 211-214&lt;&#x2F;p&gt;
+&lt;p&gt;Walt Disney Animation Studios presents the Command Center, a web application for communicating and monitoring high-dimensional production metrics at the studio. Developed during the production of &lt;em&gt;Encanto&lt;&#x2F;em&gt;, the Command Center provides near-real-time insights into key film production metrics, all integrated into a singular novel film interface.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Our studio has a bunch of presentations this year at SIGGRAPH (can’t get enough &lt;em&gt;Encanto&lt;&#x2F;em&gt;!):&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;disneyanimation.com&#x2F;events&#x2F;siggraph-2022&#x2F;&quot;&gt;https:&#x2F;&#x2F;disneyanimation.com&#x2F;events&#x2F;siggraph-2022&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If you’re attending, come stop by and check out the cool work we did! And shoot me a message too, would love to say hi to old and new friends :) &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Hello World!</title>
+		<published>2022-01-03T00:00:00+00:00</published>
+		<updated>2022-01-03T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/blog/hello-world/" type="text/html"/>
+		<id>https://justintennant.me/blog/hello-world/</id>
+		<content type="html">&lt;p&gt;A brand new website is born! &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;The year is now 2022, and I’ve finally redone my website! &lt;&#x2F;p&gt;
+&lt;p&gt;Please browse around and check out all the projects. I’m particularly proud of these few:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;raya&#x2F;&quot;&gt;&lt;em&gt;Raya and the Last Dragon&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;, for the interactive before&#x2F;after sliders&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;papaya&#x2F;&quot;&gt;papaya&lt;&#x2F;a&gt;, the theme I developed for this site &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;about&#x2F;&quot;&gt;My About page&lt;&#x2F;a&gt;, which includes fun facts about me!!!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;It has been a long and arduous journey to get to where it is now. In the coming days I’ll put up a new post detailing my reasonings for using &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; as the site’s static generation system.&lt;&#x2F;p&gt;
+&lt;p&gt;If ya like what ya see, &lt;a href=&quot;mailto:me@justintennant.me?subject=Your website is cool&quot;&gt;drop me a message&lt;&#x2F;a&gt;! &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Encanto</title>
+		<published>2021-11-24T00:00:00+00:00</published>
+		<updated>2021-11-24T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/encanto/" type="text/html"/>
+		<id>https://justintennant.me/projects/encanto/</id>
+		<content type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on optimization and metrics visualization as a Technical Director on the Tactics Team.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;More to come here soon, stay tuned.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ll be at SIGGRAPH 2022 presenting the work I and my team did for &lt;em&gt;Encanto&lt;&#x2F;em&gt;, come check it out!&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;s2022.siggraph.org&#x2F;presentation&#x2F;?id=gensub_205&amp;amp;sess=sess138&quot;&gt;&lt;strong&gt;Visualizing the Production Process of &lt;em&gt;Encanto&lt;&#x2F;em&gt; With the Command Center&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Walt Disney Animation Studios presents the Command Center, a web application for communicating and monitoring high-dimensional production metrics at the studio. Developed during the production of &lt;em&gt;Encanto&lt;&#x2F;em&gt;, the Command Center provides near-real-time insights into key film production metrics, all integrated into a singular novel film interface.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>papaya</title>
+		<published>2021-08-14T00:00:00+00:00</published>
+		<updated>2021-08-14T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/papaya/" type="text/html"/>
+		<id>https://justintennant.me/projects/papaya/</id>
+		<content type="html">&lt;p&gt;A Zola theme for blogging and projects (what this website runs on!)&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;papaya&quot;&gt;papaya&lt;&#x2F;a&gt; is a theme I developed for &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt;, the static site generator I use to build my website.&lt;&#x2F;p&gt;
+&lt;p&gt;Here are some of its features:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blog posts&lt;&#x2F;li&gt;
+&lt;li&gt;Project pages&lt;&#x2F;li&gt;
+&lt;li&gt;Categories and tags&lt;&#x2F;li&gt;
+&lt;li&gt;Featured images for posts&#x2F;pages&lt;&#x2F;li&gt;
+&lt;li&gt;Smart image embedding shortcode (&lt;code&gt;img()&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;GitHub repository star&#x2F;fork counts&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ogp.me&#x2F;&quot;&gt;Open Graph Protocol&lt;&#x2F;a&gt; tags&lt;&#x2F;li&gt;
+&lt;li&gt;Social&#x2F;contact links &lt;&#x2F;li&gt;
+&lt;li&gt;100% Google Lighthouse score&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;a class=&quot;zola-anchor&quot; href=&quot;#where&quot; aria-label=&quot;Anchor link for: where&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;The theme is on display in the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;themes&#x2F;&quot;&gt;Zola themes gallery&lt;&#x2F;a&gt;, and its source code is available on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;papaya&quot;&gt;GitHub&lt;&#x2F;a&gt; (MIT license). &lt;&#x2F;p&gt;
+&lt;p&gt;To install, follow the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;papaya#installation&quot;&gt;Installation&lt;&#x2F;a&gt; steps in the README.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;why&quot;&gt;Why&lt;a class=&quot;zola-anchor&quot; href=&quot;#why&quot; aria-label=&quot;Anchor link for: why&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Back in early 2021, I first began rebuilding my website with Zola using the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;themes&#x2F;anpu&#x2F;&quot;&gt;Anpu theme&lt;&#x2F;a&gt;. I liked the clean and minimal aesthetics it provided, leaving out the fluff and putting the content first. &lt;&#x2F;p&gt;
+&lt;p&gt;A few months into customizing the theme to my liking, I realized I’d changed a lot of Anpu’s core structure to support my desire to showcase my projects. I’d also added a bunch of new features on top of tweaking a significant amount of the theme’s styling too.&lt;&#x2F;p&gt;
+&lt;p&gt;At some point I figured my changes were enough to warrant a whole fork, and thus &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;papaya&quot;&gt;papaya&lt;&#x2F;a&gt; was born!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;core-principles&quot;&gt;Core principles&lt;a class=&quot;zola-anchor&quot; href=&quot;#core-principles&quot; aria-label=&quot;Anchor link for: core-principles&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;TODO: gotta fill this out eventually :) &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how&quot;&gt;How&lt;a class=&quot;zola-anchor&quot; href=&quot;#how&quot; aria-label=&quot;Anchor link for: how&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Creating themes for Zola is &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;themes&#x2F;creating-a-theme&#x2F;&quot;&gt;really simple&lt;&#x2F;a&gt; - all you need to do is build a website and add the &lt;code&gt;theme.toml&lt;&#x2F;code&gt; file.&lt;&#x2F;p&gt;
+&lt;p&gt;During development of my website, I discovered quite a few inspirational tidbits on the internet that drove my final feature list and design aesthetics: &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lunaria.design&#x2F;&quot;&gt;The Lunaria color palette&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: algorithmically generated to replicate the ink-on-paper experience on a screen as best as possible. For a while I considered using this palette to style papaya’s post content, but instead went with a simpler “black &amp;amp; white with signature color highlights” color palette. &lt;&#x2F;p&gt;
+&lt;p&gt;I was however heavily inspired by Lunaria’s strongly purpose-driven design; for many of papaya’s design choices I tried to derive a particular reason and purpose for the decisions I made. I may return to this palette at a later date and try building a Lunaria-based Zola code highlighting theme.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mwaskom.github.io&#x2F;&quot;&gt;mwaskom.github.io&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: Michael Waskom’s (creator of &lt;a href=&quot;https:&#x2F;&#x2F;seaborn.pydata.org&#x2F;&quot;&gt;seaborn&lt;&#x2F;a&gt;) website.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;khyperia.com&#x2F;&quot;&gt;khyperia.com&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: khy’s simple, clean, and charming personal website. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.yiningkarlli.com&#x2F;&quot;&gt;Code &amp;amp; Visuals&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: Karl Li’s (senior software engineer of Walt Disney Animation Studios’ &lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;technology&#x2F;hyperion&quot;&gt;Hyperion&lt;&#x2F;a&gt; renderer) quality content-rich website and blog. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;web.dev&#x2F;&quot;&gt;web.dev&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: a whole array of useful web development tips, suggestions, and tutorials, curated by Google Web Developers. This also led me to understanding &lt;a href=&quot;https:&#x2F;&#x2F;web.dev&#x2F;accessible&#x2F;&quot;&gt;web accessibility&lt;&#x2F;a&gt; and using &lt;a href=&quot;https:&#x2F;&#x2F;developers.google.com&#x2F;web&#x2F;tools&#x2F;lighthouse&quot;&gt;Google Lighthouse&lt;&#x2F;a&gt; for tracking performance, accessibility, and SEO metrics.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;what-is-open-graph-and-how-can-i-use-it-for-my-website&#x2F;&quot;&gt;Open Graph Protocol&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;: basically, extra HTML header tags to enrich your content for display on social media.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Raya and the Last Dragon</title>
+		<published>2021-03-05T00:00:00+00:00</published>
+		<updated>2021-03-05T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/raya/" type="text/html"/>
+		<id>https://justintennant.me/projects/raya/</id>
+		<content type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on lighting &amp;amp; volume pipelines as a Technical Director.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;em&gt;Raya and the Last Dragon&lt;&#x2F;em&gt; is the second film at Walt Disney Animation Studios I’ve had the privilege of working on (and one of my favorites stylistically!). &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;my-contributions-to-the-film&quot;&gt;My Contributions to the Film&lt;a class=&quot;zola-anchor&quot; href=&quot;#my-contributions-to-the-film&quot; aria-label=&quot;Anchor link for: my-contributions-to-the-film&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;On &lt;em&gt;Raya&lt;&#x2F;em&gt; I worked as a Technical Director, performing a mixture of &lt;strong&gt;scripting, tools development, and problem solving for our artists &amp;amp; their workflows&lt;&#x2F;strong&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;For this show specifically, my focus was in developing &amp;amp; supporting the Lighting department. One of my most significant contributions to the production was the development of our volumetrics pipeline, which allowed our lighting artists to place clouds, fog, mist, and other volumetric assets directly into their shots. This significantly lowered the need for expensive, per-shot Effects-produced volumetrics. The pipeline also supported a multi-shot workflow, allowing our lighting supervisors to insert multiple volumes across a range of shots in any one sequence.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;Below are a few examples of how the volumetrics affected the look of the film.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Use the slider to preview the before and after of adding volumetrics into these shots:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;script&gt;
+function beforeAfter1() {
+    document.getElementById(&#x27;compare-1&#x27;).style.width = document.getElementById(&#x27;slider-1&#x27;).value + &quot;%&quot;;
+}
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+   figure.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       margin: 0;
+       position: relative;
+       width: 100%;
+       display: flex;
+   }
+
+   div.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 50%;
+   }
+
+   input.compare[type=&quot;range&quot;] {
+       -webkit-appearance: none;
+       background: transparent;
+       border: none;
+       left: 0;
+       padding: 0;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top: 0;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      height: 100%;
+      margin-top: -2px;
+      width: 5px;
+      background: rgba(255, 255, 255, 0.5);
+      transition: background-color 350ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb:hover {
+      background: rgba(255, 255, 255, 0.8);
+      transition: background-color 200ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-runnable-track {
+       height: 100%;
+   }
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;extended-figure&quot; style=&quot;aspect-ratio: 1546 &#x2F; 646;&quot;&gt;
+    &lt;figure class=&quot;compare&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;5d014f0a816f617b00.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;div class=&quot;compare&quot; id=&quot;compare-1&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;13d781805af0f5f300.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;&#x2F;div&gt;
+        &lt;input oninput=&quot;beforeAfter1()&quot; onchange=&quot;beforeAfter()&quot; type=&quot;range&quot; min=&quot;0&quot; max=&quot;100&quot; value=&quot;50&quot; step=&quot;any&quot; class=&quot;compare&quot; id=&quot;slider-1&quot;&#x2F;&gt;
+        
+    &lt;&#x2F;figure&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt; &lt;&#x2F;p&gt;
+&lt;script&gt;
+function beforeAfter2() {
+    document.getElementById(&#x27;compare-2&#x27;).style.width = document.getElementById(&#x27;slider-2&#x27;).value + &quot;%&quot;;
+}
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+   figure.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       margin: 0;
+       position: relative;
+       width: 100%;
+       display: flex;
+   }
+
+   div.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 50%;
+   }
+
+   input.compare[type=&quot;range&quot;] {
+       -webkit-appearance: none;
+       background: transparent;
+       border: none;
+       left: 0;
+       padding: 0;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top: 0;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      height: 100%;
+      margin-top: -2px;
+      width: 5px;
+      background: rgba(255, 255, 255, 0.5);
+      transition: background-color 350ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb:hover {
+      background: rgba(255, 255, 255, 0.8);
+      transition: background-color 200ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-runnable-track {
+       height: 100%;
+   }
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;extended-figure&quot; style=&quot;aspect-ratio: 1546 &#x2F; 647;&quot;&gt;
+    &lt;figure class=&quot;compare&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;956b5d0e6f49815900.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;div class=&quot;compare&quot; id=&quot;compare-2&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;74efc6c64b70ede900.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;&#x2F;div&gt;
+        &lt;input oninput=&quot;beforeAfter2()&quot; onchange=&quot;beforeAfter()&quot; type=&quot;range&quot; min=&quot;0&quot; max=&quot;100&quot; value=&quot;50&quot; step=&quot;any&quot; class=&quot;compare&quot; id=&quot;slider-2&quot;&#x2F;&gt;
+        
+    &lt;&#x2F;figure&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt; &lt;&#x2F;p&gt;
+&lt;script&gt;
+function beforeAfter3() {
+    document.getElementById(&#x27;compare-3&#x27;).style.width = document.getElementById(&#x27;slider-3&#x27;).value + &quot;%&quot;;
+}
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+   figure.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       margin: 0;
+       position: relative;
+       width: 100%;
+       display: flex;
+   }
+
+   div.compare {
+       background-repeat: no-repeat;
+       height: 100%;
+       width: 50%;
+   }
+
+   input.compare[type=&quot;range&quot;] {
+       -webkit-appearance: none;
+       background: transparent;
+       border: none;
+       left: 0;
+       padding: 0;
+       position: absolute;
+       width: 100%;
+       height: 100%;
+       top: 0;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      height: 100%;
+      margin-top: -2px;
+      width: 5px;
+      background: rgba(255, 255, 255, 0.5);
+      transition: background-color 350ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-thumb:hover {
+      background: rgba(255, 255, 255, 0.8);
+      transition: background-color 200ms;
+      cursor: col-resize;
+   }
+   input.compare[type=&quot;range&quot;]::-webkit-slider-runnable-track {
+       height: 100%;
+   }
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;extended-figure&quot; style=&quot;aspect-ratio: 1546 &#x2F; 647;&quot;&gt;
+    &lt;figure class=&quot;compare&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;901619ea862f540b00.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;div class=&quot;compare&quot; id=&quot;compare-3&quot; style=&quot;background-image: url(https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;bfc6a08b31367e0b00.jpg); background-size: min(1546px, 100vw)&quot;&gt;
+        &lt;&#x2F;div&gt;
+        &lt;input oninput=&quot;beforeAfter3()&quot; onchange=&quot;beforeAfter()&quot; type=&quot;range&quot; min=&quot;0&quot; max=&quot;100&quot; value=&quot;50&quot; step=&quot;any&quot; class=&quot;compare&quot; id=&quot;slider-3&quot;&#x2F;&gt;
+        
+    &lt;&#x2F;figure&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;&lt;em&gt;Images courtesy of and the property of Walt Disney Animation Studios.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The volumetrics pipeline was a collaborative effort between multiple departments: the &lt;em&gt;effects team&lt;&#x2F;em&gt; procured the volumes to be placed into our stockroom, the &lt;em&gt;Hyperion rendering team&lt;&#x2F;em&gt; implemented new technology to render the complex heterogenerous volumes (more details in Karl Li’s &lt;a href=&quot;https:&#x2F;&#x2F;blog.yiningkarlli.com&#x2F;2021&#x2F;03&#x2F;raya-and-the-last-dragon.html&quot;&gt;excellent blog post&lt;&#x2F;a&gt;), the &lt;em&gt;preview rendering team&lt;&#x2F;em&gt; to ensure the volumes displayed beautifully in our artists’ tools, and the &lt;em&gt;technical director team&lt;&#x2F;em&gt; (that’s me!) developed the neccessary additions to our production pipeline to support our lighting artists adding the volumes into the shots.&lt;&#x2F;p&gt;
+&lt;p&gt;My contributions focused on those additions to our existing production pipeline - I lead the development of a &lt;strong&gt;new data extraction &amp;amp; organization methodology&lt;&#x2F;strong&gt; and &lt;strong&gt;authoring GUI tool&lt;&#x2F;strong&gt; for these volumetrics. &lt;&#x2F;p&gt;
+&lt;p&gt;This new methodology defined how the local lighting artists’ volumetric data should be extracted from their scenes and made available in the target destination shots. It also provided the ability for our lighting supervisors to bring in volumes and work in a multi-shot context within one DCC editing instance, and publish out those volumes across multiple shots with one action. All of this functionality was made available through a new user interface accessible to our artists directly.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;documenting-our-filmmaking-process&quot;&gt;Documenting our Filmmaking Process&lt;a class=&quot;zola-anchor&quot; href=&quot;#documenting-our-filmmaking-process&quot; aria-label=&quot;Anchor link for: documenting-our-filmmaking-process&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Our studio has curated a website to illustrate how our films are made. It’s very pretty and fun to explore - &lt;a href=&quot;https:&#x2F;&#x2F;disneyanimation.com&#x2F;process&#x2F;&quot;&gt;go check it out&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;68fbfc455ea0c82100.png&quot; class=&quot;&quot; alt=&quot;What We Do: Filmmaking Process - Walt Disney Animation Studios&quot;&#x2F;&gt;
+    &lt;figcaption&gt;What We Do: the Filmmaking Process from the &lt;a href=&#x27;https:&#x2F;&#x2F;disneyanimation.com&#x2F;process&#x2F;&#x27;&gt;Walt Disney Animation Studios website&lt;&#x2F;a&gt;.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;Marc Bryant, Ryan DeYoung, Wei-Feng Wayne Huang, Joe Longson, and Noel Villegas. 2021. &lt;em&gt;The Atmosphere of Raya and the Last Dragon&lt;&#x2F;em&gt;. In ACM SIGGRAPH 2021 Talks (&lt;em&gt;SIGGRAPH ’21&lt;&#x2F;em&gt;). Association for Computing Machinery, New York, NY, USA, Article 51, 1–2. DOI: 
+&lt;a href=&quot;https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;abs&#x2F;10.1145&#x2F;3450623.3464676&quot;&gt;https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;abs&#x2F;10.1145&#x2F;3450623.3464676&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Pitter-Pat Saves The Museum</title>
+		<published>2020-10-23T00:00:00+00:00</published>
+		<updated>2020-10-23T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/pitter-pat/" type="text/html"/>
+		<id>https://justintennant.me/projects/pitter-pat/</id>
+		<content type="html">&lt;p&gt;A point-and-click adventure horror game made in the style of classic late 90s&#x2F;early-00s edutainment games.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;p style=&quot;text-align: center; font-weight: bold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jaredr122.itch.io&#x2F;pitter-pat-saves-the-museum&quot;&gt;🎮 Play on itch.io&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Pitter-Pat heads to the museum to help find a missing artifact. Something’s not quite right though…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Pitter-Pat Saves The Museum&lt;&#x2F;strong&gt; is a point-and-click adventure game made in the style of classic late 90s&#x2F;early-00s edutainment games! Featuring:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;7+ museum rooms to discover and explore&lt;&#x2F;li&gt;
+&lt;li&gt;1 BIG museum mystery!&lt;&#x2F;li&gt;
+&lt;li&gt;Spooky sights and sounds&lt;&#x2F;li&gt;
+&lt;li&gt;An original soundtrack&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Created by two professional “animators”, this “masterwork” of interactive entertainment will leave you “frightened” to the core.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h1 id=&quot;reviews&quot;&gt;Reviews&lt;a class=&quot;zola-anchor&quot; href=&quot;#reviews&quot; aria-label=&quot;Anchor link for: reviews&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Awarded “&lt;strong&gt;Host’s Choice&lt;&#x2F;strong&gt;” for the &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;scream-jam-2020&quot;&gt;💀 SCREAM JAM 2020 💀&lt;&#x2F;a&gt;! &lt;&#x2F;p&gt;
+&lt;p&gt;Rave reviews by other jam developers:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Very interesting and very unsettling game. I came in with few questions and I came out with more. I need more. 5&#x2F;5  – srg&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This game is perfect. Honestly there’s not a single thing to dock points for. The art is absolutely on point. – makegamergirls&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is extremely good considering the time you had to make it in, and one thing I certainly wasn’t expecting to find was a horror parody of one of my favorite [Humongous Games] series. – Attica Kish&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;scream-jam-2020&#x2F;rate&#x2F;797256&quot;&gt;More reviews on itch.io&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;development&quot;&gt;Development&lt;a class=&quot;zola-anchor&quot; href=&quot;#development&quot; aria-label=&quot;Anchor link for: development&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Developed specifically for the &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;scream-jam-2020&quot;&gt;💀 SCREAM JAM 2020 💀&lt;&#x2F;a&gt; game jam on itch.io. Co-developed with the same friend who I also worked on &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;horai&#x2F;&quot;&gt;Horai&lt;&#x2F;a&gt; with together!&lt;&#x2F;p&gt;
+&lt;p&gt;Built with &lt;a href=&quot;https:&#x2F;&#x2F;godotengine.org&#x2F;&quot;&gt;Godot&lt;&#x2F;a&gt;, using the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;godot-escoria&#x2F;escoria-demo-game&#x2F;tree&#x2F;esc2-godot3.2&quot;&gt;Escoria 2.0 point-and-click adventure game framework&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;music&quot;&gt;Music&lt;a class=&quot;zola-anchor&quot; href=&quot;#music&quot; aria-label=&quot;Anchor link for: music&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;I also wrote the soundtrack!&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 70%; margin: auto; padding: 10px 0&quot;&gt;
+Museum: &lt;audio src=&quot;museum_theme.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;
+&lt;p&gt;End: &lt;audio src=&quot;end_theme.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;To get those classic mid-90’s synthesized instrument sounds, I emulated the Yamaha YMF262 chip (&lt;a href=&quot;http:&#x2F;&#x2F;www.vgmpf.com&#x2F;Wiki&#x2F;index.php?title=YMF262&quot;&gt;utilized in multiple sound cards in the day&lt;&#x2F;a&gt;) using the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jpcima&#x2F;ADLplug&quot;&gt;ADLplug chip synthesizer&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;While I was playing around with that synthesizer, I discovered quite a few instruments I recognized from some early Humongous Entertainment games (Putt-Putt, Fatty Bear’s Birthday Surprise), especially the soundtracks produced by &lt;a href=&quot;http:&#x2F;&#x2F;www.vgmpf.com&#x2F;Wiki&#x2F;index.php&#x2F;Tom_McMail&quot;&gt;Tom McMail&lt;&#x2F;a&gt;. I might later write a blog post dissecting each game’s music and what synth instruments were used, a-la &lt;a href=&quot;https:&#x2F;&#x2F;reverbmachine.com&#x2F;&quot;&gt;Reverb Machine&lt;&#x2F;a&gt;! &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Horai</title>
+		<published>2020-07-26T00:00:00+00:00</published>
+		<updated>2020-07-26T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/horai/" type="text/html"/>
+		<id>https://justintennant.me/projects/horai/</id>
+		<content type="html">&lt;p&gt;A survival game to keep a flower alive by changing the seasons.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;p style=&quot;text-align: center; font-weight: bold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jaredr122.itch.io&#x2F;horai&quot;&gt;🎮 Play on itch.io&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Change the season with SPACEBAR. Keep the flower alive. Too hot or too cold, the flower will die. The animals prefer certain conditions, but you’ll have to figure those out as you play!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;My first ever game completed in a game jam, built with &lt;a href=&quot;https:&#x2F;&#x2F;godotengine.org&#x2F;&quot;&gt;Godot&lt;&#x2F;a&gt;! I developed this with a friend for the &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;my-first-game-jam-summer-2020&#x2F;rate&#x2F;711724&quot;&gt;My First Game Jam: Summer 2020&lt;&#x2F;a&gt;. I was responsible for the particle systems (rain, leaves, snow), health &amp;amp; temperature system, and music. &lt;&#x2F;p&gt;
+&lt;p&gt;At the time we developed Horai, the world was deep into the COVID-19 Fun Times™, and we had a formidable need to unleash some creative energy. We tossed a few game engine ideas on the wall, but settled with using Godot for its shallow learning curve, easy file management, and strong community support. It was a great learning experience, and we were satisfied enough with Godot to make &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;pitter-pat&#x2F;&quot;&gt;another game with it later that year&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;Here’s some in-depth juiciness of what I worked on:&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;graphics&quot;&gt;Graphics&lt;a class=&quot;zola-anchor&quot; href=&quot;#graphics&quot; aria-label=&quot;Anchor link for: graphics&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Besides the &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;horai&#x2F;#particle-system&quot;&gt;particle system&lt;&#x2F;a&gt; mentioned below, I also added the season transition effect:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;seasonchange.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This was a direct implementation of DDRKirby’s wicked cool shader-based transitions&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;. All the rest of the game’s beautiful pixel art was done by my super talented teammate!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;particle-system&quot;&gt;Particle System&lt;a class=&quot;zola-anchor&quot; href=&quot;#particle-system&quot; aria-label=&quot;Anchor link for: particle-system&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Just after we first added our flower sprite into our forest, we realized that the environment felt dead, too static. I tinkered around with Godot’s &lt;a href=&quot;https:&#x2F;&#x2F;docs.godotengine.org&#x2F;en&#x2F;stable&#x2F;tutorials&#x2F;2d&#x2F;particle_systems_2d.html&quot;&gt;Particle System&lt;&#x2F;a&gt; and managed to get some nice seasonal weather added:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;rain.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;leaves.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video src=&quot;snow.mp4&quot; controls&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mechanics&quot;&gt;Mechanics&lt;a class=&quot;zola-anchor&quot; href=&quot;#mechanics&quot; aria-label=&quot;Anchor link for: mechanics&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;health-temperature-system&quot;&gt;Health &amp;amp; Temperature System&lt;a class=&quot;zola-anchor&quot; href=&quot;#health-temperature-system&quot; aria-label=&quot;Anchor link for: health-temperature-system&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;In Horai, the goal is to keep the flower alive as long as possible. I implemented a simple numerical health system (&lt;code&gt;9 = &lt;&#x2F;code&gt;full health, &lt;code&gt;0 = &lt;&#x2F;code&gt; dead) on the flower, and a global temperature variable in the game (&lt;code&gt;var temperature = 60&lt;&#x2F;code&gt;). I also defined a “Goldilocks range”, where if the temperature ever dipped below or above the range, there’d be a certain (small) chance that the flower would take damage.&lt;&#x2F;p&gt;
+&lt;p&gt;Each season (&lt;code&gt;enum SEASONS {SPRING, SUMMER, FALL, WINTER}&lt;&#x2F;code&gt;) had a defined influencing behavior on the temperature of either increasing to a maximum, decreasing to a minimum, or adjusting to a median temperature. &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;music&quot;&gt;Music&lt;a class=&quot;zola-anchor&quot; href=&quot;#music&quot; aria-label=&quot;Anchor link for: music&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;During development, we curated a playlist to help set the tone and mood of our game:&lt;&#x2F;p&gt;
+&lt;iframe src=&quot;https:&#x2F;&#x2F;open.spotify.com&#x2F;embed&#x2F;playlist&#x2F;03FQSmm6pXmMz6PqTo5jOE?theme=0&quot; width=&quot;75%&quot; height=&quot;300&quot; style=&quot;display: block; margin: auto&quot; frameBorder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;&#x2F;iframe&gt;
+&lt;h2 id=&quot;soundtrack&quot;&gt;Soundtrack&lt;a class=&quot;zola-anchor&quot; href=&quot;#soundtrack&quot; aria-label=&quot;Anchor link for: soundtrack&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Feeling inspired by our playlist, I developed a soundtrack for the game!&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 70%; margin: auto; padding: 10px 0&quot;&gt;
+Spring: &lt;audio src=&quot;spring.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;
+&lt;p&gt;Summer: &lt;audio src=&quot;summer.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Fall: &lt;audio src=&quot;fall.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Winter: &lt;audio src=&quot;winter.mp3&quot; preload=&quot;metadata&quot; controls loop style=&quot;width:80%; float: right&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;The season’s themes were produced in Ableton with Serum, and written with intentionally similar themes to bring a sense of cohesion across the seasons.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;closing-thoughts&quot;&gt;Closing Thoughts&lt;a class=&quot;zola-anchor&quot; href=&quot;#closing-thoughts&quot; aria-label=&quot;Anchor link for: closing-thoughts&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;I’m very proud of what we accomplished in the week of development, in the limited hours outside our regular jobs! Most of our time consisted of poring over Godot’s documentation and learning rapidly while tinkering – by the end we were excited to have &lt;em&gt;something&lt;&#x2F;em&gt; playable, but even more excited to begin building bigger and better things with the engine.&lt;&#x2F;p&gt;
+&lt;p&gt;Here are some of my learned lessons: &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Lock down your idea early, and leave time for playtesting.&lt;&#x2F;em&gt; Avoid what we did of spending the first half of our game jam coming to a decision (oops… lol)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Identify your priorities and keep your focus.&lt;&#x2F;em&gt; I found myself getting distracted by all the nifty features within Godot, especially those relating to graphics. I also probably spent more time trying to deliver the aesthetics for the game than the gameplay itself. &lt;&#x2F;p&gt;
+&lt;p&gt;For future game jams, I’ve learned I should prototype and iterate more swiftly, and try not to get too caught up in QC’ing&#x2F;bug-fixing while developing. Your time in a game jam is precious!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Seriously, leave time for playtesting!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ddrkirby.com&#x2F;articles&#x2F;shader-based-transitions&#x2F;shader-based-transitions.html&quot;&gt;https:&#x2F;&#x2F;ddrkirby.com&#x2F;articles&#x2F;shader-based-transitions&#x2F;shader-based-transitions.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Frozen 2</title>
+		<published>2019-11-07T00:00:00+00:00</published>
+		<updated>2019-11-07T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/frozen2/" type="text/html"/>
+		<id>https://justintennant.me/projects/frozen2/</id>
+		<content type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on crowds pipeline, support &amp;amp; bug fixing, and more as an Assistant Technical Director.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;em&gt;Frozen 2&lt;&#x2F;em&gt; is the first feature film I’ve had the privilege to work on, and I am immensely proud of what our crew accomplished to produce this stunning visual magic.&lt;&#x2F;p&gt;
+&lt;p&gt;On &lt;em&gt;Frozen 2&lt;&#x2F;em&gt; I worked as an Assistant Technical Director, performing a mixture of scripting, tools development, and problem solving for our artists &amp;amp; their workflows. As a member of the Technical Director department, I represented  the intermediate between our artists and software engineers, working as a “steward of the pipeline” to ensure our artists could accomplish their artistic visions with the technology we craft them.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;a class=&quot;zola-anchor&quot; href=&quot;#background&quot; aria-label=&quot;Anchor link for: background&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;A little context about how I got to work on &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;I joined Walt Disney Animation Studios through their Talent Development Program as a Technical Director Trainee in 2018&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;. After 3 months as a trainee, I was cast to Frozen 2 as an Assistant Technical Director and assisted nearly all the production departments on producing and rendering this film. &lt;&#x2F;p&gt;
+&lt;p&gt;Besides it being my first film to work on at Walt Disney Animation Studios and my first credit, &lt;em&gt;Frozen 2&lt;&#x2F;em&gt; holds a particularly special place in my heart for another reason: the first &lt;em&gt;Frozen&lt;&#x2F;em&gt; movie motivated me to enter the computer graphics industry. Specifically, the &lt;em&gt;A Material Point Method for Snow Simulation&lt;&#x2F;em&gt;&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; publication from the film’s technical development was a defining point of inspiration during my years as a college student. To have worked on its direct sequel, at the studio that produced it, is a true honor and a highlight of my career.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;0767c5451991eefd00.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 - Teaser shot&quot;&#x2F;&gt;
+    &lt;figcaption&gt;The gang overlook the enchanted forest. From the &lt;a href=&#x27;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=eSLe4HuKuK0&#x27;&gt;&lt;i&gt;Frozen 2&lt;&#x2F;i&gt; Official Teaser Trailer&lt;&#x2F;a&gt;.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;But enough gushing! Here’s a glance at some of the stuff I worked on for this production:&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crowds-and-their-luscious-locks&quot;&gt;Crowds (and their luscious locks)&lt;a class=&quot;zola-anchor&quot; href=&quot;#crowds-and-their-luscious-locks&quot; aria-label=&quot;Anchor link for: crowds-and-their-luscious-locks&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;Frozen 2&lt;&#x2F;em&gt; had a lot of crowd characters, and all of them needed to appear presentable – groomed hair, fitted clothes, the works! Ensuring the best tailored look across all the crowd body types and head shapes was a necessity.&lt;&#x2F;p&gt;
+&lt;p&gt;To accomplish this, we used a refitting process that propagated data along our crowd asset hierarchies (described in Luceno Ros et al. 2021, p. 2&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#3&quot;&gt;3&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;). I worked on the part of that process that refit the crowd characters’ hair grooms to different head shapes.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;10a333fff63171bf00.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 - Crowds&quot;&#x2F;&gt;
+    
+&lt;&#x2F;figure&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;7f87919bc843883700.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 - Crowds&quot;&#x2F;&gt;
+    &lt;figcaption&gt;Some examples of the crowds pipeline in action. Look at that beautifully groomed crowd hair! From a &lt;a href=&#x27;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=JntesK7rdTA&#x27;&gt;&lt;i&gt;Frozen 2&lt;&#x2F;i&gt; trailer&lt;&#x2F;a&gt;.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;bug-fixing-production-support&quot;&gt;Bug fixing &amp;amp; production support&lt;a class=&quot;zola-anchor&quot; href=&quot;#bug-fixing-production-support&quot; aria-label=&quot;Anchor link for: bug-fixing-production-support&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;No film ever completes production without some occurrence of technical challenges. &lt;&#x2F;p&gt;
+&lt;p&gt;Part of my responsibility on the show was triaging the many issues that arose from artists: Elsa’s hair blowing up, disappearing props and sets, crazy render times, you name it! As an Assistant Technical Director (ATD), the expectation was for me to pick up any issue from any production department and do my best to solve it. &lt;&#x2F;p&gt;
+&lt;p&gt;I also had a hand in touching a number of software products and artist tools for bugfixes that came up during production.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;optimizations&quot;&gt;Optimizations&lt;a class=&quot;zola-anchor&quot; href=&quot;#optimizations&quot; aria-label=&quot;Anchor link for: optimizations&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The Technical Director teams also share a responsibility of optimizing our shots when needed to get them through the pipeline. Below are a few behind-the-scenes highlights of shots I had a hand in optimizing:&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;To create the mist at the entrance to the Enchanted Forest, the Effects team first draped a cloth simulation across the scene. The team populated the cloth simulation with thousands of smaller fluid simulations to build movement. &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hashtag&#x2F;TechTuesday?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#TechTuesday&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hashtag&#x2F;Frozen2?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Frozen2&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;t.co&#x2F;EwSiB45Cr7&quot;&gt;pic.twitter.com&#x2F;EwSiB45Cr7&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&amp;mdash; Disney Animation (@DisneyAnimation) &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;DisneyAnimation&#x2F;status&#x2F;1219771926228303872?ref_src=twsrc%5Etfw&quot;&gt;January 22, 2020&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt; &lt;script async src=&quot;https:&#x2F;&#x2F;platform.twitter.com&#x2F;widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Watch how the Lighting and Look Development artists transformed Ahtohallan with their work in &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;hashtag&#x2F;Frozen2?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Frozen2&lt;&#x2F;a&gt;. &lt;a href=&quot;https:&#x2F;&#x2F;t.co&#x2F;rWJG8K9jHM&quot;&gt;pic.twitter.com&#x2F;rWJG8K9jHM&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&amp;mdash; Disney Animation (@DisneyAnimation) &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;DisneyAnimation&#x2F;status&#x2F;1283151786283601920?ref_src=twsrc%5Etfw&quot;&gt;July 14, 2020&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt; &lt;script async src=&quot;https:&#x2F;&#x2F;platform.twitter.com&#x2F;widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+&lt;h1 id=&quot;related-publications&quot;&gt;Related publications&lt;a class=&quot;zola-anchor&quot; href=&quot;#related-publications&quot; aria-label=&quot;Anchor link for: related-publications&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Along with the beautiful artistry crafted for this film, our technical teams went all out to refine our tools and workflows. Here are some publications released by our studio that illustrate the awesome partnerships of art and science on &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;disneyanimation.com&#x2F;publications&#x2F;frozen-2-effects-vegetation-pipeline&#x2F;&quot;&gt;&lt;em&gt;Frozen 2&lt;&#x2F;em&gt;: Effects Vegetation Pipeline&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Norman Moses Joseph, Vijoy Gaddipati, Benjamin Fiske, Marie Tollec, and Tad Miller. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3409320&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 7, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;creating-the-wind-spirit&#x2F;&quot;&gt;Frozen 2: Creating the Wind Spirit&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Cameron Black, Ben Fiske, and Trent Correy. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407346&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 22, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;making-beautiful-embroidery-for-frozen-2&#x2F;&quot;&gt;Making Beautiful Embroidery for &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Ying Liu, Jared Wright, and Alexander Alvarado. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407360&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 73, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;deconstructing-destruction-making--breaking-frozen-2s-dam&#x2F;&quot;&gt;Deconstructing Destruction: Making &amp;amp; Breaking &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;’s Dam&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Marie Tollec, Sean Jenkins, Lance Summers, and Charles Cunningham-Scott. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407333&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 24, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;the-look-and-lighting-of-show-yourself-from-frozen-2&#x2F;&quot;&gt;The Look and Lighting of “Show Yourself” from &lt;em&gt;Frozen 2&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; – Amol Sathe, Lance Summers, Matt Jen-Yuan Chiang, and James Newland. 2020. In &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3388767.3407388&quot;&gt;&lt;em&gt;ACM SIGGRAPH 2020 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’20&lt;&#x2F;em&gt;). Article 71, 1–2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;f4d76ce0db0919c900.jpg&quot; class=&quot;&quot; alt=&quot;Frozen 2 credits&quot;&#x2F;&gt;
+    &lt;figcaption&gt;Hey, it&#x27;s me! This is my first film credit.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;All images in this post are courtesy of and the property of Walt Disney Animation Studios.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;references&quot;&gt;References&lt;a class=&quot;zola-anchor&quot; href=&quot;#references&quot; aria-label=&quot;Anchor link for: references&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;talent-development&#x2F;apprenticeships&#x2F;&quot;&gt;Trainee &amp;amp; Apprentice Program&lt;&#x2F;a&gt; at Walt Disney Animation Studios is a 9-to-18 month mentored training program for recently graduated&#x2F;early career artists and technologists. If you’re interested in this opportunity, I recommend checking out “Open Positions” on &lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;careers&#x2F;&quot;&gt;Disney Animation Careers&lt;&#x2F;a&gt; and look for “Talent Development” roles for your focus of interest.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;Alexey Stomakhin, Craig Schroeder, Lawrence Chai, Joseph Teran, and Andrew Selle. 2013. &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2461912.2461948&quot;&gt;A material point method for snow simulation&lt;&#x2F;a&gt;. &lt;i&gt;ACM Trans. Graph.&lt;&#x2F;i&gt; 32, 4, Article 102 (July 2013), 10 pages. &lt;a href=&quot;https:&#x2F;&#x2F;www.disneyanimation.com&#x2F;publications&#x2F;a-material-point-method-for-snow-simulation&#x2F;&quot;&gt;disneyanimation.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;3&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;3&lt;&#x2F;sup&gt;
+&lt;p&gt;Alberto Luceno Ros, Kristin Chow, Jack Geckler, Norman Moses Joseph, and Nicolas Nghiem. 2021. &lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3450623.3464648&quot;&gt;Populating the World of Kumandra: Animation at Scale for Disney’s “Raya and the Last Dragon”&lt;&#x2F;a&gt;. In &lt;em&gt;ACM SIGGRAPH 2021 Talks&lt;&#x2F;em&gt; (&lt;em&gt;SIGGRAPH ’21&lt;&#x2F;em&gt;).  Article 39, 1–2.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>usd-idea</title>
+		<published>2019-05-11T00:00:00+00:00</published>
+		<updated>2019-05-11T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/usd-idea/" type="text/html"/>
+		<id>https://justintennant.me/projects/usd-idea/</id>
+		<content type="html">&lt;p&gt;A plugin for JetBrains IDEs (PyCharm, IntelliJ, etc) that provides support for Universal Scene Description (USD).&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;plugins.jetbrains.com&#x2F;plugin&#x2F;12407-usd&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;jetbrains&#x2F;plugin&#x2F;v&#x2F;12407-usd.svg?style=popout&quot; alt=&quot;JetBrains IntelliJ Plugins&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;plugins.jetbrains.com&#x2F;plugin&#x2F;12407-usd&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;jetbrains&#x2F;plugin&#x2F;d&#x2F;12407-usd.svg?style=popout&quot; alt=&quot;JetBrains IntelliJ plugins&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p style=&quot;text-align: center; font-weight: bold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;plugins.jetbrains.com&#x2F;plugin&#x2F;12407-usd&quot;&gt;Install (via JetBrains Marketplace)&lt;&#x2F;a&gt; ◦ &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;usd-idea&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;A plugin for JetBrains IDEs (PyCharm, IntelliJ, CLion, etc) that provides support for &lt;a href=&quot;https:&#x2F;&#x2F;graphics.pixar.com&#x2F;usd&#x2F;docs&#x2F;index.html&quot;&gt;Universal Scene Description (USD)&lt;&#x2F;a&gt;, a framework for interchange of 3D computer graphics data, developed by Pixar Animation Studios.&lt;&#x2F;p&gt;
+&lt;p&gt;Released under the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;usd-idea&#x2F;blob&#x2F;main&#x2F;LICENSE&quot;&gt;MIT License&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;feature-set&quot;&gt;Feature set&lt;a class=&quot;zola-anchor&quot; href=&quot;#feature-set&quot; aria-label=&quot;Anchor link for: feature-set&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;.usd&lt;&#x2F;code&gt;&#x2F;&lt;code&gt;.usda&lt;&#x2F;code&gt; filetype syntax highlighting &amp;amp; validation&lt;&#x2F;li&gt;
+&lt;li&gt;Asset&#x2F;prim reference navigation (with &lt;code&gt;usdresolve&lt;&#x2F;code&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Brace matching &amp;amp; block folding&lt;&#x2F;li&gt;
+&lt;li&gt;Structure&#x2F;outline views&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;future-aspirations&quot;&gt;Future aspirations&lt;a class=&quot;zola-anchor&quot; href=&quot;#future-aspirations&quot; aria-label=&quot;Anchor link for: future-aspirations&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;JetBrains has an incredibly powerful &lt;a href=&quot;https:&#x2F;&#x2F;plugins.jetbrains.com&#x2F;docs&#x2F;intellij&#x2F;psi.html&quot;&gt;Program Structure Interface (PSI)&lt;&#x2F;a&gt; within their editors that represent the code’s syntactic and semantic models, and powers their intellisense features and autocompletion.&lt;&#x2F;p&gt;
+&lt;p&gt;Pixar’s USD has an equally powerful &lt;a href=&quot;https:&#x2F;&#x2F;graphics.pixar.com&#x2F;usd&#x2F;files&#x2F;Siggraph2019_USD%20Composition.pdf&quot;&gt;layer composition&lt;&#x2F;a&gt; system which can represent 3D scenes as being composed from many elemental assets.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;By fully utilizing the JetBrains PSI to model USD’s layer composition system, usd-idea could evolve into a substantially effective USD file editor, inspector, and debugger.&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;Listed below are noteworthy features I’m interested in adding into the plugin:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h2 id=&quot;crate-package-usdc-usdz-file-support&quot;&gt;Crate&#x2F;package (&lt;code&gt;.usdc&lt;&#x2F;code&gt;&#x2F;&lt;code&gt;.usdz&lt;&#x2F;code&gt;) file support&lt;a class=&quot;zola-anchor&quot; href=&quot;#crate-package-usdc-usdz-file-support&quot; aria-label=&quot;Anchor link for: crate-package-usdc-usdz-file-support&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;File viewing&#x2F;editing of USD crate (&lt;code&gt;.usdc&lt;&#x2F;code&gt;) and package (&lt;code&gt;.usdz&lt;&#x2F;code&gt;) file support.&lt;&#x2F;p&gt;
+&lt;p&gt;Crate file support has been a long-time desire&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; and unfortunately, a pain in the butt to implement within the IntelliJ SDK. I’ve made some promising advancements in recent tests (as of September 21, 2021) and will hopefully have a partially working form of this in the near future.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h2 id=&quot;usd-python-api-autocompletion&quot;&gt;USD Python API autocompletion&lt;a class=&quot;zola-anchor&quot; href=&quot;#usd-python-api-autocompletion&quot; aria-label=&quot;Anchor link for: usd-python-api-autocompletion&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Autocompletion for USD’s Python bindings (e.g.: &lt;code&gt;pxr.Usd&lt;&#x2F;code&gt;, &lt;code&gt;pxr.Sdf&lt;&#x2F;code&gt;, etc).&lt;&#x2F;p&gt;
+&lt;p&gt;Some attempts towards this have been tried by others using Python-stub based methods&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;, but unfortunately no USD stubs have ever been publicly released, officially or non-officially.&lt;&#x2F;p&gt;
+&lt;p&gt;Depending on how robust PyCharm’s SDK is, I may end up attempting a similar approach to usdstubgen by inspecting the Python packages &amp;amp; modules in a runtime context within the plugin and serving the autocomplete results back to the IDE.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h2 id=&quot;usdchecker-file-linting&quot;&gt;&lt;code&gt;usdchecker&lt;&#x2F;code&gt; file linting&lt;a class=&quot;zola-anchor&quot; href=&quot;#usdchecker-file-linting&quot; aria-label=&quot;Anchor link for: usdchecker-file-linting&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;File inspections provided by &lt;code&gt;usdchecker&lt;&#x2F;code&gt;’s rules and metrics.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h2 id=&quot;prim-property-navigation&quot;&gt;Prim&#x2F;property navigation&lt;a class=&quot;zola-anchor&quot; href=&quot;#prim-property-navigation&quot; aria-label=&quot;Anchor link for: prim-property-navigation&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Navigation of declarations, overs, and usage of prims&#x2F;properties. &lt;&#x2F;p&gt;
+&lt;p&gt;Would be excellent to have value inspections too.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h2 id=&quot;inline-documentation&quot;&gt;Inline documentation&lt;a class=&quot;zola-anchor&quot; href=&quot;#inline-documentation&quot; aria-label=&quot;Anchor link for: inline-documentation&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;USD documentation (Doxygen and&#x2F;or graphics.pixar.com) directly viewable from object inspecting &amp;amp; mouseovers.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h2 id=&quot;layer-stack-composition-explorer&quot;&gt;Layer stack&#x2F;composition explorer&lt;a class=&quot;zola-anchor&quot; href=&quot;#layer-stack-composition-explorer&quot; aria-label=&quot;Anchor link for: layer-stack-composition-explorer&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;It would be nice to explore the layer stacks in some sort of tree view, similar to usdview’s Composition Explorer.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;h2 id=&quot;hydra-renderer-viewport&quot;&gt;Hydra renderer viewport&lt;a class=&quot;zola-anchor&quot; href=&quot;#hydra-renderer-viewport&quot; aria-label=&quot;Anchor link for: hydra-renderer-viewport&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Interactive viewport within the IDE, with live updating as files are edited.&lt;&#x2F;p&gt;
+&lt;p&gt;Perhaps with &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;java-native-access&#x2F;jna&quot;&gt;JNA&lt;&#x2F;a&gt;; more research &amp;amp; investigations needed.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;graphics.pixar.com&#x2F;usd&#x2F;docs&#x2F;api&#x2F;hd_embree_page_front.html&quot;&gt;HdEmbree docs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;PixarAnimationStudios&#x2F;USD&#x2F;blob&#x2F;dc710925675f7f58f7a37f6c18d046a687b09271&#x2F;pxr&#x2F;imaging&#x2F;plugin&#x2F;hdEmbree&#x2F;testenv&#x2F;testHdEmbree.cpp&quot;&gt;testHdEmbree.cpp&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If any of these features pique your interest, or if you have ideas of your own, please reach out and let me know! I’d love to hear how you might imagine using an IDE with USD, or have ideas how to build it.&lt;&#x2F;p&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;usd-idea&#x2F;issues&#x2F;7&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;usd-idea&#x2F;issues&#x2F;7&lt;&#x2F;a&gt;: &lt;em&gt;Add support for binary USD files&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chadrik&#x2F;usdstubgen&quot;&gt;usdstubgen&lt;&#x2F;a&gt; by Chad Dombrova&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>dance-hack</title>
+		<published>2018-01-22T00:00:00+00:00</published>
+		<updated>2018-01-22T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/dance-hack/" type="text/html"/>
+		<id>https://justintennant.me/projects/dance-hack/</id>
+		<content type="html">&lt;p&gt;A virtual DJ that adapts song choices&#x2F;volume to crowd activity using OpenPose multi-person motion detection. (UCSB Hacks 2018)&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;p style=&quot;text-align: center; font-weight: bold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;dance-hack&#x2F;&quot;&gt;https:&#x2F;&#x2F;justintennant.me&#x2F;dance-hack&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;DanceHack is a web app that uses &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;CMU-Perceptual-Computing-Lab&#x2F;openpose&quot;&gt;OpenPose motion detection&lt;&#x2F;a&gt; and a video cam to detect the dancing motions of people and chooses an appropriate song to play using the Spotify API.&lt;&#x2F;p&gt;
+&lt;p&gt;This SB Hacks 2018 hackathon project won Best Modern C++ by Toyon Research Corporation!&lt;&#x2F;p&gt;
+&lt;p&gt;See the &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;dance-hack&#x2F;&quot;&gt;DanceHack website&lt;&#x2F;a&gt; for video demonstrations and a detailed technical breakdown.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>obj-viewer</title>
+		<published>2017-11-15T00:00:00+00:00</published>
+		<updated>2017-11-15T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/obj-viewer/" type="text/html"/>
+		<id>https://justintennant.me/projects/obj-viewer/</id>
+		<content type="html">&lt;p&gt;A simple one-file OBJ file viewer, written in C++ using OpenGL and GLUT.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;obj-viewer&#x2F;raw&#x2F;main&#x2F;obj-viewer.gif&quot; alt=&quot;Video demonstration of obj-viewer, with the Stanford bunny&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;A very simple single file OBJ file viewer, written in C++ using OpenGL and GLUT.&lt;&#x2F;p&gt;
+&lt;p&gt;I wrote this in my Introduction to Computer Graphics class at San Jose State University.&lt;&#x2F;p&gt;
+&lt;p&gt;Use the arrow keys to move the camera around&#x2F;zoom in. Press &lt;code&gt;w&lt;&#x2F;code&gt; to enable wireframe render mode, and &lt;code&gt;s&lt;&#x2F;code&gt; to switch back to the single light diffuse + specular light render mode.&lt;&#x2F;p&gt;
+&lt;p&gt;I threw in the classic Stanford bunny file for demonstration purposes, but most other simple OBJ files should work. If you find an OBJ file that breaks my code, let me know so I can improve it!&lt;&#x2F;p&gt;
+&lt;p&gt;View on GitHub: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;obj-viewer&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;obj-viewer&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>stringless</title>
+		<published>2017-06-13T00:00:00+00:00</published>
+		<updated>2021-03-01T00:00:00+00:00</updated>
+		<link href="https://justintennant.me/projects/stringless/" type="text/html"/>
+		<id>https://justintennant.me/projects/stringless/</id>
+		<content type="html">&lt;p&gt;Real-time single-camera markerless facial motion capture into Autodesk Maya.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;&quot;&gt;Stringless&lt;&#x2F;a&gt; is a proof-of-concept real time, single camera, markerless facial motion capture system. It includes a plugin for sending motion capture data to Autodesk Maya, and was built to be extendable to other animation software. I developed it as my thesis project for my CS undergraduate degree at San Jose State University in 2017.&lt;&#x2F;p&gt;
+&lt;p&gt;By using &lt;a href=&quot;http:&#x2F;&#x2F;dlib.net&#x2F;&quot;&gt;dlib&lt;&#x2F;a&gt; facial landmark detection, Stringless captures facial motion data as a collection of data points. That data is sent to an Autodesk Maya plug-in, where a user can map the motion capture data to a rigged face model.&lt;&#x2F;p&gt;
+&lt;p&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;raw&#x2F;main&#x2F;stringless.gif&quot; alt=&quot;Demonstration GIF of Stringless in use&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p style=&quot;text-align: center; font-weight: bold&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;&quot;&gt;View on GitHub&lt;&#x2F;a&gt; ◦ &lt;a href=&quot;Stringless_NASA_Presentation.pdf&quot;&gt;Presentation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Stringless is a prototype of a motion capture system intended for casual&#x2F;non-professional animators and visual development (“visdev”). Practically any user with a webcam and a modern computer processor (supporting AVX&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; or SSE4 instruction sets) can utilize Stringless.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;why-build-stringless&quot;&gt;Why build Stringless?&lt;a class=&quot;zola-anchor&quot; href=&quot;#why-build-stringless&quot; aria-label=&quot;Anchor link for: why-build-stringless&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Upon entering my final year at San Jose State University, I was eager to flex my skills in C++ and craft my thesis project within the computer graphics and computer vision space. My mentor and computer graphics course instructor Robert Bruce advised I consider pursuing a project relating to facial motion capture. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Facial_motion_capture&quot;&gt;Facial motion capture&lt;&#x2F;a&gt; is a complicated problem space; depending on a system’s criteria of capturing methodologies, the resulting capture data’s dimensional depth, quality, and stability can vary greatly:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Markered&lt;&#x2F;th&gt;&lt;th&gt;Markerless&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Excellent capture quality&lt;&#x2F;li&gt;&lt;li&gt;Meticulous setup required&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Potentially unstable tracking&lt;&#x2F;li&gt;&lt;li&gt;Minimal setup required&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt; &lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Multi-camera&lt;&#x2F;th&gt;&lt;th&gt;Single-camera&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Three-dimensional capture data&lt;&#x2F;li&gt;&lt;li&gt;Costly&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Two-dimensional capture data&lt;&#x2F;li&gt;&lt;li&gt;Less costly&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt; &lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Realtime&lt;&#x2F;th&gt;&lt;th&gt;Offline&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Immediate results&lt;&#x2F;li&gt;&lt;li&gt;Potentially computationally expensive&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;ul&gt;&lt;li&gt;Delayed results&lt;&#x2F;li&gt;&lt;li&gt;Potentially laborious data processing&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;At the time of my final year at San Jose State University, most quality facial motion capture systems existed as internal, proprietary software, developed and utilized within their respective Visual Effects and Computer Graphics companies. The remaining options available for licensing had either extensive hardware&#x2F;recording requirements (multi-camera setups, additional infrared projectors, or markers) or prohibitively expensive costs. &lt;&#x2F;p&gt;
+&lt;p&gt;These options seemed inaccessible to individuals without large budgets like students, non-professional artists, or small independent studios. A low-cost, low-hardware requirement facial motion capture system didn’t seem to exist.&lt;&#x2F;p&gt;
+&lt;p&gt;Recognizing this unsolved space, I decided to attempt a prototype of a facial motion capture system that addressed all the facets of the problem:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Markers are cumbersome&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Multi-camera setups are expensive&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ingesting capture data can be laborious&lt;&#x2F;em&gt;. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;With these factors in mind, I designed and built a facial motion capture system prototype (now known as Stringless) that would be:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;markerless&lt;&#x2F;strong&gt;, requiring no markers on the actor’s face for capturing,&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;single-camera&lt;&#x2F;strong&gt;, averting the need for expensive equipment, and&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;real-time&lt;&#x2F;strong&gt;, allowing the capture results to be immediately viewed.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;By avoiding the costly addition of multiple cameras and laborious work of using markers, Stringless can be used by practically anyone with a computer and a webcam.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-it-works&quot;&gt;How it works&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-it-works&quot; aria-label=&quot;Anchor link for: how-it-works&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Stringless operates with an IPC client-server model: &lt;strong&gt;the server&lt;&#x2F;strong&gt; collects the image frames from the webcam and processes them using the dlib machine learning toolkit to generate facial landmark positions; &lt;strong&gt;the client&lt;&#x2F;strong&gt; then reads in the landmark position data which the user can link to the 3D rig joints.&lt;&#x2F;p&gt;
+&lt;figure class=&quot;extended-figure&quot;&gt;
+    &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;justintennant.me&amp;#x2F;processed_images&amp;#x2F;d4042871029c117400.png&quot; class=&quot;&quot; alt=&quot;Stringless system architecture diagram.&quot;&#x2F;&gt;
+    &lt;figcaption&gt;Stringless system architecture diagram.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Stringless’s architecture was built with extensibility in mind by implementing its client-server model over POSIX shared memory. This allows Stringless to send data not only to Autodesk Maya, but potentially any other 3D application that can implement the Stringless Reader interface. &lt;&#x2F;p&gt;
+&lt;p&gt;Here’s a related thread on how one could theoretically extend usage outside of Maya: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;issues&#x2F;9&quot;&gt;&lt;em&gt;Using Blender instead of Maya (#9) · justint&#x2F;stringless&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Stringless also uses &lt;strong&gt;localized delta calculations&lt;&#x2F;strong&gt; to produce the outputted positional data – the user defines a neutral face definition using the server application UI, then the resulting localized face is defined by the deltas from the neutral face. Three-dimensional rotations (pitch, yaw, and roll) are not yet accounted for; see &lt;a href=&quot;https:&#x2F;&#x2F;justintennant.me&#x2F;projects&#x2F;stringless&#x2F;#results&quot;&gt;my later note&lt;&#x2F;a&gt; on the recorded data being two-dimensional.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;results&quot;&gt;Results&lt;a class=&quot;zola-anchor&quot; href=&quot;#results&quot; aria-label=&quot;Anchor link for: results&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;The Stringless system is fully functional; it can pipe two-dimensional data (68 2D facial landmark points) using localized delta calculations to drive a rig in Autodesk Maya.&lt;&#x2F;p&gt;
+&lt;p&gt;Below is a chart of resolution-to-framerate performance metrics, recorded on an Intel Core i9-7960X with a Logitech BRIO webcam:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Capture resolution&lt;&#x2F;th&gt;&lt;th&gt;Frames per second (avg)&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;4k&lt;&#x2F;td&gt;&lt;td&gt;26&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;1920x1080&lt;&#x2F;td&gt;&lt;td&gt;60&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;1280x720&lt;&#x2F;td&gt;&lt;td&gt;90&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;640x480&lt;&#x2F;td&gt;&lt;td&gt;120&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Due to certain design choices within the system, some caveats to its operation exist:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Using a single camera means the recorded data is two-dimensional&lt;&#x2F;strong&gt; – the 68 facial landmarks that dlib generates when locating faces are processed &amp;amp; recorded in 2D space only. Ultimately we’d want to have some abstracted layer above the raw 2D data that provides three-dimensional data, like rotation values of the head and per-facial feature data (e.g.: eye&#x2F;mouth open&#x2F;close amounts, eyebrow raise amounts, etc.). This could certainly be doable with enough matrix &amp;amp; vector mathematics, but I haven’t had the will or time to implement it.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Stringless can only operate on POSIX shared memory compatible systems&lt;&#x2F;strong&gt; – this essentially means macOS and Linux only, for now. If the desire is strong enough to eventually get Stringless working on Windows, we could rewrite its client-server system to an OS-independent IPC method like socket communication.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;There are also some known issues:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lighting conditions must be decent to ensure face identifications&lt;&#x2F;li&gt;
+&lt;li&gt;Potential face identification failures from facial expressions&#x2F;gaze being too distant from the training data&lt;&#x2F;li&gt;
+&lt;li&gt;A consistent face direction is required during capture due to the localized delta calculation system&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;future-thoughts&quot;&gt;Future thoughts&lt;a class=&quot;zola-anchor&quot; href=&quot;#future-thoughts&quot; aria-label=&quot;Anchor link for: future-thoughts&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;New development from me has ceased since my graduating, with only occasional maintenance and code repository cleaning. After finishing development in 2017 I dumped a backlog of nice-to-have features onto the repository’s issues; here are a select few worth noting:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cross-platform support (&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;issues&#x2F;4&quot;&gt;justint&#x2F;stringless#4&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Implement eye tracking (&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;issues&#x2F;5&quot;&gt;justint&#x2F;stringless#5&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Process &amp;amp; provide three-dimensional rotation, per-facial feature data (&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;issues&#x2F;7&quot;&gt;justint&#x2F;stringless#7&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Integration with other animation software (Blender: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;justint&#x2F;stringless&#x2F;issues&#x2F;7&quot;&gt;justint&#x2F;stringless#9&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;Most Intel&#x2F;AMD processors released after 2013 support AVX instructions: &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Advanced_Vector_Extensions#CPUs_with_AVX&quot;&gt;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Advanced_Vector_Extensions#CPUs_with_AVX&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+	</entry>
+</feed>
