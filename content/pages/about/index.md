@@ -19,44 +19,7 @@ If you'd like to contact me, feel free to [email me](mailto:me@justintennant.me)
 - I have two scaly pets: <span title="Ball python (Python regius)">**Cleo** 🐍</span>   and <span title="Blue-tongued skink (Tiliqua gigas evanescens)">**Papaya** 🦎</span> .
 - I love urban exploring, and shoot **[urbex photography](https://flickr.com/photos/cephalopi)** from time to time.
 
-# Mini-CV
-
-## Education
-
-- B.S. in Computer Science, San José State University (Advisor: [Robert Bruce](http://www.robertjamesbruce.com/)), 2018
-
-## Talks
-
-- SIGGRAPH, SV Special Session, 2019
-
-- [NASA Ames Research Center, 2017](/presentation.pdf)
-
-## Professional Activities
-
-- Subcommittee Member, SIGGRAPH Computer Animation Festival, 2020
-
-- Subcommittee Member, SIGGRAPH Computer Animation Festival, 2019
-
-- Triage Jury, SIGGRAPH Computer Animation Festival, 2019-Now
-
-## Student Activities
-
-- Team Leader, SIGGRAPH Student Volunteer program, 2018
-
-- Student Volunteer, SIGGRAPH, 2017
-
-- Founder & President, SJSU Computer Graphics Club (now [ACM SIGGRAPH Student Chapter at SJSU](https://siggraphsjsu.hosting2.acm.org/)), 2016
-
-## Teaching
-
-- TA, Introduction to Programming (CS46A), 2017-2018
-
 
 # The site
 
 This website is statically generated using the [Zola](https://www.getzola.org/) engine. It utilizes the [Papaya](@/projects/papaya/index.md) theme for Zola, which I developed.
-
-
-[comment]: <> (# Friends on the internet)
-
-[comment]: <> (- [Gwen &#40;glfmn&#41;]&#40;https://glfmn.io/&#41;)
