@@ -8,7 +8,7 @@ template = "about.html"
 
 I'm **Justin (he/him/his)**, a Technical Director at [Walt Disney Animation Studios](https://disneyanimation.com/). I work on our studio's animation pipeline and help craft the tools our artists use.
 
-I've worked on films such as [_Frozen 2_](@/projects/frozen2/index.md), [_Raya and the Last Dragon_](@/projects/raya/index.md), and _Encanto_ (2021).
+I've worked on films such as [_Frozen 2_](@/projects/frozen2/index.md), [_Raya and the Last Dragon_](@/projects/raya/index.md), and [_Encanto_](@/projects/encanto/index.md).
 
 If you'd like to contact me, feel free to [email me](mailto:me@justintennant.me) or reach out via [LinkedIn](https://www.linkedin.com/in/justinmtennant).
 
