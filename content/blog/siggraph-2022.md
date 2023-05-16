@@ -1,5 +1,5 @@
 +++
-title = "SIGGRAPH 2022"
+title = "I'll be at SIGGRAPH 2022"
 date = 2022-07-24
 
 [taxonomies]
@@ -7,6 +7,10 @@ tags = ["siggraph"]
 +++
 Presenting my team's Tactics work on _Encanto_ and excellent poutine are on the horizon.
 <!-- more -->
+
+_Edit: our publication is now publicly available on the [ACM Digital Library](https://dl.acm.org/doi/10.1145/3532836.3536242) or downloadable as a [PDF](/projects/encanto/Visualizing+the+Production+Process+of+Encanto+With+the+Command+Center.pdf)._
+
+---
 
 It's [SIGGRAPH](https://s2022.siggraph.org/) time! 🎉
 
