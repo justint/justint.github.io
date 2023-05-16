@@ -4,19 +4,7 @@ base_url = "https://justintennant.me"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
-
 theme = "papaya"
-
-title = "Justin Tennant"
-description = "It's me!"
-generate_feed = true
-
-taxonomies = [
-    { name = "categories", feed = true },
-    { name = "tags", feed = true },
-]
 
 [markdown]
 # Whether to do syntax highlighting
@@ -33,6 +21,14 @@ title = "Justin Tennant"
 description = "It's me!"
 generate_feed = true
 feed_filename = "atom.xml"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+taxonomies = [
+    { name = "categories", feed = true },
+    { name = "tags", feed = true },
+]
 
 [languages.en.translations]
 projects = "Projects"
@@ -60,6 +56,9 @@ date_format = "%B %e, %Y"
 [extra]
 # Development environment. Used by the page macros to load remote content only when in "prod" mode
 env = "ZOLA_ENV"
+
+# Color theme mode. Options: light, dark, auto (automatically switch depending on OS/user agent settings)
+color_mode = "auto"
 
 # List of Papaya navigational menu items. Used to construct the navigation bar. See the README for item schema.
 menu_items = [
