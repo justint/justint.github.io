@@ -6,7 +6,7 @@ template = "about.html"
 
 <img src="me.jpg" alt="A photo of me" class="bordered me-pic" align="right" style="margin-left: 1em; border-radius: 50%">
 
-I'm **Justin (he/him/his)**, a Technical Director at [Walt Disney Animation Studios](https://disneyanimation.com/). I work on our studio's animation pipeline and help craft the tools our artists use.
+I'm **Justin (he/they)**, a Technical Director at [Walt Disney Animation Studios](https://disneyanimation.com/). I work on our studio's animation pipeline and help craft the tools our artists use.
 
 I've worked on films such as [_Frozen 2_](@/projects/frozen2/index.md), [_Raya and the Last Dragon_](@/projects/raya/index.md), and [_Encanto_](@/projects/encanto/index.md).
 
