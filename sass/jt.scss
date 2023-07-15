@@ -21,6 +21,10 @@ audio {
     width: 100%;
 }
 
+.me-pic {
+    aspect-ratio: 1;
+}
+
 /* Mobile-only */
 @media screen and (max-width: 600px) {
     .resume-embed {

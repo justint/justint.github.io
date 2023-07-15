@@ -6,9 +6,9 @@ template = "about.html"
 
 <img src="me.jpg" alt="A photo of me" class="bordered me-pic" align="right" style="margin-left: 1em; border-radius: 50%">
 
-I'm **Justin (he/they)**, a Technical Director at [Walt Disney Animation Studios](https://disneyanimation.com/). I work on our studio's animation pipeline and help craft the tools our artists use.
+I'm **Justin (he/they)**, a Technical Artist at [Riot Games](https://www.riotgames.com/). I work on the game content development pipeline and help craft the tools our artists use.
 
-I've worked on films such as [_Frozen 2_](@/projects/frozen2/index.md), [_Raya and the Last Dragon_](@/projects/raya/index.md), and [_Encanto_](@/projects/encanto/index.md).
+Previously I was at [Walt Disney Animation Studios](https://disneyanimation.com/) as a Technical Director, and worked on films such as [_Frozen 2_](@/projects/frozen2/index.md), [_Raya and the Last Dragon_](@/projects/raya/index.md), and [_Encanto_](@/projects/encanto/index.md).
 
 If you'd like to contact me, feel free to [email me](mailto:me@justintennant.me) or reach out via [LinkedIn](https://www.linkedin.com/in/justinmtennant).
 
