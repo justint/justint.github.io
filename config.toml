@@ -55,7 +55,7 @@ date_format = "%B %e, %Y"
 
 [extra]
 # Development environment. Used by the page macros to load remote content only when in "prod" mode
-env = "prod"
+env = "ZOLA_ENV"
 
 # PostHog tracking code
 posthog_code = "phc_C3LABXPs1pWuVjeufVEpKKsqnfElpx2rOgzYhd6QliQ"
