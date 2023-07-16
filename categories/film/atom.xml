@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Justin Tennant - film</title>
+    <subtitle>It&#x27;s me!</subtitle>
+    <link href="https://justintennant.me/categories/film/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://justintennant.me"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-11-24T00:00:00+00:00</updated>
+    <id>https://justintennant.me/categories/film/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Encanto</title>
+        <published>2021-11-24T00:00:00+00:00</published>
+        <updated>2021-11-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/encanto/" type="text/html"/>
+        <id>https://justintennant.me/projects/encanto/</id>
+        
+        <summary type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on optimization and metrics visualization as a Technical Director on the Tactics Team.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Raya and the Last Dragon</title>
+        <published>2021-03-05T00:00:00+00:00</published>
+        <updated>2021-03-05T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/raya/" type="text/html"/>
+        <id>https://justintennant.me/projects/raya/</id>
+        
+        <summary type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on lighting &amp;amp; volume pipelines as a Technical Director.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Frozen 2</title>
+        <published>2019-11-07T00:00:00+00:00</published>
+        <updated>2019-11-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/frozen2/" type="text/html"/>
+        <id>https://justintennant.me/projects/frozen2/</id>
+        
+        <summary type="html">&lt;p&gt;Walt Disney Animation Studios feature film – worked on crowds pipeline, support &amp;amp; bug fixing, and more as an Assistant Technical Director.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

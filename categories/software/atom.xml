@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Justin Tennant - software</title>
+    <subtitle>It&#x27;s me!</subtitle>
+    <link href="https://justintennant.me/categories/software/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://justintennant.me"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-08-14T00:00:00+00:00</updated>
+    <id>https://justintennant.me/categories/software/atom.xml</id>
+    <entry xml:lang="en">
+        <title>papaya</title>
+        <published>2021-08-14T00:00:00+00:00</published>
+        <updated>2021-08-14T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/papaya/" type="text/html"/>
+        <id>https://justintennant.me/projects/papaya/</id>
+        
+        <summary type="html">&lt;p&gt;A Zola theme for blogging and projects (what this website runs on!)&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>usd-idea</title>
+        <published>2019-05-11T00:00:00+00:00</published>
+        <updated>2019-05-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/usd-idea/" type="text/html"/>
+        <id>https://justintennant.me/projects/usd-idea/</id>
+        
+        <summary type="html">&lt;p&gt;A plugin for JetBrains IDEs (PyCharm, IntelliJ, etc) that provides support for Universal Scene Description (USD).&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>dance-hack</title>
+        <published>2018-01-22T00:00:00+00:00</published>
+        <updated>2018-01-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/dance-hack/" type="text/html"/>
+        <id>https://justintennant.me/projects/dance-hack/</id>
+        
+        <summary type="html">&lt;p&gt;A virtual DJ that adapts song choices&#x2F;volume to crowd activity using OpenPose multi-person motion detection. (UCSB Hacks 2018)&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>obj-viewer</title>
+        <published>2017-11-15T00:00:00+00:00</published>
+        <updated>2017-11-15T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/obj-viewer/" type="text/html"/>
+        <id>https://justintennant.me/projects/obj-viewer/</id>
+        
+        <summary type="html">&lt;p&gt;A simple one-file OBJ file viewer, written in C++ using OpenGL and GLUT.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>stringless</title>
+        <published>2017-06-13T00:00:00+00:00</published>
+        <updated>2021-03-01T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/projects/stringless/" type="text/html"/>
+        <id>https://justintennant.me/projects/stringless/</id>
+        
+        <summary type="html">&lt;p&gt;Real-time single-camera markerless facial motion capture into Autodesk Maya.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

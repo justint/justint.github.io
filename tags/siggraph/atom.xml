@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Justin Tennant - siggraph</title>
+    <subtitle>It&#x27;s me!</subtitle>
+    <link href="https://justintennant.me/tags/siggraph/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://justintennant.me"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-07-24T00:00:00+00:00</updated>
+    <id>https://justintennant.me/tags/siggraph/atom.xml</id>
+    <entry xml:lang="en">
+        <title>I&#x27;ll be at SIGGRAPH 2022</title>
+        <published>2022-07-24T00:00:00+00:00</published>
+        <updated>2022-07-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://justintennant.me/blog/siggraph-2022/" type="text/html"/>
+        <id>https://justintennant.me/blog/siggraph-2022/</id>
+        
+        <summary type="html">&lt;p&gt;Presenting my team’s Tactics work on &lt;em&gt;Encanto&lt;&#x2F;em&gt; and excellent poutine are on the horizon.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

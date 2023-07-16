@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+
+    <title>stringless - Justin Tennant</title>
+    <meta name="description" content="It&#x27;s me!">
+
+    
+    <link rel="stylesheet" href="https://justintennant.me/base.css">
+    <link rel="stylesheet" href="https://justintennant.me/auto.css">
+
+    <link rel="preload" href=https:&#x2F;&#x2F;cdnjs.cloudflare.com&#x2F;ajax&#x2F;libs&#x2F;font-awesome&#x2F;6.0.0-beta2&#x2F;css&#x2F;all.min.css as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href=https:&#x2F;&#x2F;cdnjs.cloudflare.com&#x2F;ajax&#x2F;libs&#x2F;font-awesome&#x2F;6.0.0-beta2&#x2F;css&#x2F;all.min.css></noscript>
+
+    
+    <link rel="alternate" type="application/atom+xml" title="RSS" href="https://justintennant.me/atom.xml">
+    
+
+    
+    
+    <meta property="og:locale" content="en_US">
+    
+    <meta property="og:title" content="stringless">
+    
+    <meta property="og:type" content="article">
+    <meta property="article:author" content="https://justintennant.me/about/">
+    <meta property="article:published_time" content="2017-06-13">
+    
+    
+    <meta property="article:modified_time" content="2021-03-01">
+    
+    
+    <meta property="og:url" content="https://justintennant.me/projects/stringless/">
+    
+    
+    <meta property="og:image" content="https://justintennant.me/projects/stringless/img.png">
+    
+    
+    
+    <meta property="og:description" content="Real-time single-camera markerless facial motion capture into Autodesk Maya.
+">
+    
+
+
+    
+<link rel="stylesheet" href="https://justintennant.me/jt.css">
+
+
+<script>
+  !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+  posthog.init('phc_C3LABXPs1pWuVjeufVEpKKsqnfElpx2rOgzYhd6QliQ',{api_host:'https://app.posthog.com'})
+</script>
+
+
+</head>
+<body>
+<div class="container">
+    
+    
+    <header>
+        <h1 class="site-header">
+            <a href="https:&#x2F;&#x2F;justintennant.me">Justin Tennant</a>
+        </h1>
+        <nav>
+            <ul>
+            
+            
+                
+                <li><a class="active" href="https:&#x2F;&#x2F;justintennant.me&#x2F;projects">Projects</a></li>
+            
+                
+                <li><a  href="https:&#x2F;&#x2F;justintennant.me&#x2F;blog">Blog</a></li>
+            
+                
+                <li><a  href="https:&#x2F;&#x2F;justintennant.me&#x2F;about&#x2F;">About</a></li>
+            
+            
+            </ul>
+        </nav>
+    </header>
+    
+    
+
+<article class="post">
+    
+        
+        
+        
+            
+            
+            
+        
+    <img src="https:&#x2F;&#x2F;justintennant.me&#x2F;processed_images&#x2F;img.8c2ad283038d4b8d.png" class="" alt="stringless"/>
+    
+    
+    
+        
+        <header>
+            <h1>stringless</h1>
+            <h2 class="post-summary">Real-time single-camera markerless facial motion capture into Autodesk Maya.
+</h2>
+        </header>
+        
+        
+<div class="article-info">
+    
+    <div class="article-date">June 13, 2017</div>
+    
+    <div class="article-taxonomies">
+        
+        ◦
+        <ul class="article-categories">
+            
+            <li><a href="https://justintennant.me/categories/software/">software</a></li>
+            
+        </ul>
+        
+        
+    </div>
+    
+    
+    <div class="article-github"> ◦
+        <a href="https://www.github.com/justint/stringless">
+        <span class="icon is-large">
+          <i class="fa fas fa-star"></i>
+        </span>
+        66
+        
+        <span class="icon is-large">
+          <i class="fa fas fa-code-branch"></i>
+        </span>
+        17
+        
+        </a>
+    </div>
+    
+</div>
+
+        
+    
+    
+    <div class="content">
+        <span id="continue-reading"></span>
+<p><a href="https://github.com/justint/stringless/">Stringless</a> is a proof-of-concept real time, single camera, markerless facial motion capture system. It includes a plugin for sending motion capture data to Autodesk Maya, and was built to be extendable to other animation software. I developed it as my thesis project for my CS undergraduate degree at San Jose State University in 2017.</p>
+<p>By using <a href="http://dlib.net/">dlib</a> facial landmark detection, Stringless captures facial motion data as a collection of data points. That data is sent to an Autodesk Maya plug-in, where a user can map the motion capture data to a rigged face model.</p>
+<p> </p>
+<p><img src="https://github.com/justint/stringless/raw/main/stringless.gif" alt="Demonstration GIF of Stringless in use" /></p>
+<p style="text-align: center; font-weight: bold"><a href="https://github.com/justint/stringless/">View on GitHub</a> ◦ <a href="Stringless_NASA_Presentation.pdf">Presentation</a></p>
+<p>Stringless is a prototype of a motion capture system intended for casual/non-professional animators and visual development (“visdev”). Practically any user with a webcam and a modern computer processor (supporting AVX<sup class="footnote-reference"><a href="#1">1</a></sup> or SSE4 instruction sets) can utilize Stringless.</p>
+<h1 id="why-build-stringless">Why build Stringless?<a class="zola-anchor" href="#why-build-stringless" aria-label="Anchor link for: why-build-stringless">
+    <svg class="zola-anchor-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+        <path fill-rule="evenodd"
+            d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
+        </path>
+    </svg>
+</a>
+</h1>
+<p>Upon entering my final year at San Jose State University, I was eager to flex my skills in C++ and craft my thesis project within the computer graphics and computer vision space. My mentor and computer graphics course instructor Robert Bruce advised I consider pursuing a project relating to facial motion capture. </p>
+<p><a href="https://en.wikipedia.org/wiki/Facial_motion_capture">Facial motion capture</a> is a complicated problem space; depending on a system’s criteria of capturing methodologies, the resulting capture data’s dimensional depth, quality, and stability can vary greatly:</p>
+<table><thead><tr><th>Markered</th><th>Markerless</th></tr></thead><tbody>
+<tr><td><ul><li>Excellent capture quality</li><li>Meticulous setup required</li></ul></td><td><ul><li>Potentially unstable tracking</li><li>Minimal setup required</li></ul></td></tr>
+</tbody></table>
+<p> </p>
+<table><thead><tr><th>Multi-camera</th><th>Single-camera</th></tr></thead><tbody>
+<tr><td><ul><li>Three-dimensional capture data</li><li>Costly</li></ul></td><td><ul><li>Two-dimensional capture data</li><li>Less costly</li></ul></td></tr>
+</tbody></table>
+<p> </p>
+<table><thead><tr><th>Realtime</th><th>Offline</th></tr></thead><tbody>
+<tr><td><ul><li>Immediate results</li><li>Potentially computationally expensive</li></ul></td><td><ul><li>Delayed results</li><li>Potentially laborious data processing</li></ul></td></tr>
+</tbody></table>
+<p>At the time of my final year at San Jose State University, most quality facial motion capture systems existed as internal, proprietary software, developed and utilized within their respective Visual Effects and Computer Graphics companies. The remaining options available for licensing had either extensive hardware/recording requirements (multi-camera setups, additional infrared projectors, or markers) or prohibitively expensive costs. </p>
+<p>These options seemed inaccessible to individuals without large budgets like students, non-professional artists, or small independent studios. A low-cost, low-hardware requirement facial motion capture system didn’t seem to exist.</p>
+<p>Recognizing this unsolved space, I decided to attempt a prototype of a facial motion capture system that addressed all the facets of the problem:</p>
+<ul>
+<li>
+<p><em>Markers are cumbersome</em>.</p>
+</li>
+<li>
+<p><em>Multi-camera setups are expensive</em>.</p>
+</li>
+<li>
+<p><em>Ingesting capture data can be laborious</em>. </p>
+</li>
+</ul>
+<p>With these factors in mind, I designed and built a facial motion capture system prototype (now known as Stringless) that would be:</p>
+<ul>
+<li>
+<p><strong>markerless</strong>, requiring no markers on the actor’s face for capturing,</p>
+</li>
+<li>
+<p><strong>single-camera</strong>, averting the need for expensive equipment, and</p>
+</li>
+<li>
+<p><strong>real-time</strong>, allowing the capture results to be immediately viewed.</p>
+</li>
+</ul>
+<p>By avoiding the costly addition of multiple cameras and laborious work of using markers, Stringless can be used by practically anyone with a computer and a webcam.</p>
+<h1 id="how-it-works">How it works<a class="zola-anchor" href="#how-it-works" aria-label="Anchor link for: how-it-works">
+    <svg class="zola-anchor-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+        <path fill-rule="evenodd"
+            d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
+        </path>
+    </svg>
+</a>
+</h1>
+<p>Stringless operates with an IPC client-server model: <strong>the server</strong> collects the image frames from the webcam and processes them using the dlib machine learning toolkit to generate facial landmark positions; <strong>the client</strong> then reads in the landmark position data which the user can link to the 3D rig joints.</p>
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+    
+    
+
+    
+        
+        
+        
+        
+        
+    
+
+<figure class="extended-figure">
+    <img src="https:&#x2F;&#x2F;justintennant.me&#x2F;processed_images&#x2F;architecture.a48c5ebf8106b484.png" class="" alt="Stringless system architecture diagram."/>
+    <figcaption>Stringless system architecture diagram.</figcaption>
+</figure>
+<p>Stringless’s architecture was built with extensibility in mind by implementing its client-server model over POSIX shared memory. This allows Stringless to send data not only to Autodesk Maya, but potentially any other 3D application that can implement the Stringless Reader interface. </p>
+<p>Here’s a related thread on how one could theoretically extend usage outside of Maya: <a href="https://github.com/justint/stringless/issues/9"><em>Using Blender instead of Maya (#9) · justint/stringless</em></a></p>
+<p>Stringless also uses <strong>localized delta calculations</strong> to produce the outputted positional data – the user defines a neutral face definition using the server application UI, then the resulting localized face is defined by the deltas from the neutral face. Three-dimensional rotations (pitch, yaw, and roll) are not yet accounted for; see <a href="https://justintennant.me/projects/stringless/#results">my later note</a> on the recorded data being two-dimensional.</p>
+<h1 id="results">Results<a class="zola-anchor" href="#results" aria-label="Anchor link for: results">
+    <svg class="zola-anchor-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+        <path fill-rule="evenodd"
+            d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
+        </path>
+    </svg>
+</a>
+</h1>
+<p>The Stringless system is fully functional; it can pipe two-dimensional data (68 2D facial landmark points) using localized delta calculations to drive a rig in Autodesk Maya.</p>
+<p>Below is a chart of resolution-to-framerate performance metrics, recorded on an Intel Core i9-7960X with a Logitech BRIO webcam:</p>
+<table><thead><tr><th>Capture resolution</th><th>Frames per second (avg)</th></tr></thead><tbody>
+<tr><td>4k</td><td>26</td></tr>
+<tr><td>1920x1080</td><td>60</td></tr>
+<tr><td>1280x720</td><td>90</td></tr>
+<tr><td>640x480</td><td>120</td></tr>
+</tbody></table>
+<p>Due to certain design choices within the system, some caveats to its operation exist:</p>
+<ul>
+<li>
+<p><strong>Using a single camera means the recorded data is two-dimensional</strong> – the 68 facial landmarks that dlib generates when locating faces are processed &amp; recorded in 2D space only. Ultimately we’d want to have some abstracted layer above the raw 2D data that provides three-dimensional data, like rotation values of the head and per-facial feature data (e.g.: eye/mouth open/close amounts, eyebrow raise amounts, etc.). This could certainly be doable with enough matrix &amp; vector mathematics, but I haven’t had the will or time to implement it.</p>
+</li>
+<li>
+<p><strong>Stringless can only operate on POSIX shared memory compatible systems</strong> – this essentially means macOS and Linux only, for now. If the desire is strong enough to eventually get Stringless working on Windows, we could rewrite its client-server system to an OS-independent IPC method like socket communication.</p>
+</li>
+</ul>
+<p>There are also some known issues:</p>
+<ul>
+<li>Lighting conditions must be decent to ensure face identifications</li>
+<li>Potential face identification failures from facial expressions/gaze being too distant from the training data</li>
+<li>A consistent face direction is required during capture due to the localized delta calculation system</li>
+</ul>
+<h1 id="future-thoughts">Future thoughts<a class="zola-anchor" href="#future-thoughts" aria-label="Anchor link for: future-thoughts">
+    <svg class="zola-anchor-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+        <path fill-rule="evenodd"
+            d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
+        </path>
+    </svg>
+</a>
+</h1>
+<p>New development from me has ceased since my graduating, with only occasional maintenance and code repository cleaning. After finishing development in 2017 I dumped a backlog of nice-to-have features onto the repository’s issues; here are a select few worth noting:</p>
+<ul>
+<li>Cross-platform support (<a href="https://github.com/justint/stringless/issues/4">justint/stringless#4</a>)</li>
+<li>Implement eye tracking (<a href="https://github.com/justint/stringless/issues/5">justint/stringless#5</a>)</li>
+<li>Process &amp; provide three-dimensional rotation, per-facial feature data (<a href="https://github.com/justint/stringless/issues/7">justint/stringless#7</a>)</li>
+<li>Integration with other animation software (Blender: <a href="https://github.com/justint/stringless/issues/7">justint/stringless#9</a>)</li>
+</ul>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>Most Intel/AMD processors released after 2013 support AVX instructions: <a href="https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX">https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX</a>.</p>
+</div>
+
+    </div>
+    
+
+    
+</article>
+
+
+    <footer>
+        <p>
+            
+<span class="icon-text">
+  
+
+  
+
+  
+  <a href="https://github.com/justint" aria-label="Open justint GitHub" target="_blank">
+    <span class="icon is-large">
+      <i class="fab fa-github fa-lg" aria-hidden="true" title="GitHub"></i>
+    </span>
+  </a>
+  
+
+  
+  <a href="https://www.linkedin.com/in/justinmtennant" aria-label="Open justinmtennant LinkedIn" target="_blank">
+    <span class="icon is-large">
+      <i class="fab fa-linkedin fa-lg" aria-hidden="true" title="LinkedIn"></i>
+    </span>
+  </a>
+  
+
+  
+
+  
+
+  
+
+  
+  <a href="mailto:me@justintennant.me" aria-label="Email me@justintennant.me" target="_blank">
+    <span class="icon is-large">
+      <i class="far fa-envelope fa-lg" aria-hidden="true" title="email"></i>
+    </span>
+  </a>
+  
+
+  
+  <a href="https:&#x2F;&#x2F;justintennant.me/atom.xml" aria-label="Open atom xml feed" target="_blank">
+    <span class="icon is-large">
+      <i class="fas fa-rss fa-lg" aria-hidden="true" title="atom xml feed"></i>
+    </span>
+  </a>
+  
+
+  
+</span>
+
+        </p>
+        <p>
+            
+            
+        </p>
+    </footer>
+</div>
+</body>
+</html>
